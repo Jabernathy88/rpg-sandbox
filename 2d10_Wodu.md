@@ -447,6 +447,20 @@ Grenade				2d10 blast
 5		Helicopter minigun			3d10 blast			
 	6		C-4					4d10 blast						
 
+## Alternate Initiatives
 
+GM rolls once for all enemies: 1d6 +0 -or- +1 based on the fiction.
 
+* 1-3:	One or all of the enemies are surpried (GM chooses).
+* 4-6:	One or all of the enemies have a head start (GM chooses).
 
+Each player rolls DEX.
+	16+	Great:	Player has a head start.
+	13+	Fair:		Player is ready.
+	12-:				Player is surprised.
+_(The GM may call for a different stat based on the fiction. For example, if it's a courtly social challenge, WIT or CHA might be more appropriate.)_
+
+Round 0: Players who have head start. Then enemies with a head start, if they aren't already engaged in melee or distracted as a consequence of the player's head start.
+Round 1: Players who are ready and not surprised. Enemies as normal.
+Round 2: Players and enemies as normal.
+Etc.
