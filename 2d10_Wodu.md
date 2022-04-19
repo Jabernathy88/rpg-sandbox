@@ -442,12 +442,12 @@ Mutant Claws  (as dual swords +1)	2d10▲k1 +1 melee
 Upgrades purchased through “Special Moves” will replace the +1 bonus with a +2. The max will be +4, I think. These bonuses apply to damage only, not any rolls “to hit.”. More examples TBD.
 
 Also (GM’s option) 										
-4		Sniper rifle 				2d10 ranged
+4		Sniper rifle 				2d10 ranged 
 Grenade				2d10 blast				
 5		Helicopter minigun			3d10 blast			
 	6		C-4					4d10 blast						
 
-## Alternate Initiatives
+## Initiative
 
 GM rolls once for all enemies: 1d6 +0 -or- +1 based on the fiction.
 
