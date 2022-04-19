@@ -454,9 +454,9 @@ GM rolls once for all enemies: 1d6 +0 -or- +1 based on the fiction.
  * 4-6:	One or all of the enemies have a head start (GM chooses).
 
 Each player rolls DEX.
- *	16+	Great:	Player has a head start.
- *	13+	Fair:		Player is ready.
- *	12-:				Player is surprised.
+ *	**16+	Great**:	Player has a head start.
+ *	**13+	Fair**:		Player is ready.
+ *	**12-**:				Player is surprised.
 
 _(The GM may call for a different stat based on the fiction. For example, if it's a courtly social challenge, WIT or CHA might be more appropriate.)_
 
