@@ -449,7 +449,7 @@ Grenade				2d10 blast
 
 ## Initiative
 
-GM rolls once for all enemies: 1d6 +0 or 1d6 +1 based on the fiction.
+GM rolls once for all enemies: 1d6 +0 or +1 based on the fiction.
  * 1-3:	One or all of the enemies are surpried (GM chooses which).
  * 4-6:	One or all of the enemies have a head start (GM chooses which).
 
@@ -458,7 +458,7 @@ Each player rolls DEX.
  * 13+	**Fair**:		You are ready as normal.
  * 12-:							You are surprised. Good luck!
 
-(The GM may call for a different stat based on the fiction. For example, if it's a courtly social challenge, WIT or CHA might make sense.)
+_(The GM may call for a different stat based on the fiction. For example, if it's a courtly social challenge, WIT or CHA might make sense.)_
 
 Round 0: Players who have head start. Then enemies who have a head start.
 
