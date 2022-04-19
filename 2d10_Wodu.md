@@ -444,26 +444,26 @@ Upgrades purchased through “Special Moves” will replace the +1 bonus with a 
 Also (GM’s option) 										
 4		Sniper rifle 				2d10 ranged
 Grenade				2d10 blast				
-5		Helicopter minigun			3d10 blast			
+5		Helicopter minigun			3d10 blast
 	6		C-4					4d10 blast						
 
 ## Initiative
 
-GM rolls once for all enemies: 1d6 +0 or +1 based on the fiction.
- * 1-3:	One or all of the enemies are surpried (GM chooses which).
- * 4-6:	One or all of the enemies have a head start (GM chooses which).
+The GM rolls 1d6 for all enemies and, before the roll, may declare a +1 or -1 modifier based on the fiction.
+ * **1-3**:	One enemy -or- all enemies are surprised _(GM's choice)_. Any other enemies are simply ready.
+ * **4-6**:	One enemy -or- all enemies have a head start. The rest are simply ready and not surprised.
 
 Each player rolls DEX.
- * 16+	**Great**:	You have a head start.
- * 13+	**Fair**:		You are ready as normal.
- * 12-:							You are surprised. Good luck!
+ * **16+	Great**:	You have a **head start** — you may act during Round 1, and you have advantage on rolls to attack against enemies who are surprised.
 
-_(The GM may call for a different stat based on the fiction. For example, if it's a courtly social challenge, WIT or CHA might make sense.)_
+ * **13+	Fair**:		You are  **simply ready** — you do not get a spotlight during Round 1 of combat, but you are not considered surprised and do not suffer any disadvantage related to initiative.
 
-Round 0: Players who have head start. Then enemies who have a head start.
+ * **12-**:					You are  **surprised** — during Round 1 of combat, you do not get a spotlight and you have disadvantage on rolls to defend against enemies who have a head start.
 
-Round 1: Players who are ready and not surprised. Enemies as normal.
+_(The GM may call for a different stat based on the fiction. For example, if it's a courtly social challenge, initiative based on WIT or CHA might make sense.)_
 
-Round 2: Players and enemies as normal.
+**Round 1**: Spotlight starts with players who have a head start. Then resolve the actions of enemies who have a head start. Skip all other characters, including those who are simply ready or surprised. The benefit of having a head start wears off at the end of this round.
 
-And so on.
+**Round 2**: Spotlight goes to all of the players first, and then all enemies may act as normal. Characters are no longer surprised, so any initiative-related advantages and disadvantages do not apply.
+
+**Round 3**: And so on, players first and enemies last, as normal.
