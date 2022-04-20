@@ -462,8 +462,8 @@ Each player rolls DEX.
 
 _(The GM may call for a different stat based on the fiction. For example, if it's a courtly social challenge, initiative based on WIT or CHA might make sense.)_
 
-**Round 1**: Spotlight starts with players who have a head start. Then resolve the actions of enemies who have a head start. Skip all other characters, including those who are simply ready or surprised. The benefit of having a head start wears off at the end of this round.
+**Round 1**: The spotlight starts with players who have a head start. Then resolve the actions of enemies who have a head start. Skip all other characters, including those who are simply ready or surprised. The benefit of having a head start wears off at the end of this round.
 
-**Round 2**: Spotlight goes to all of the players first, and then all enemies may act as normal. Characters are no longer surprised, so any initiative-related advantages and disadvantages do not apply.
+**Round 2**: Characters are no longer surprised. The spotlight goes to all of the players first, and then all enemies may act as normal.
 
 **Round 3**: And so on, players first and enemies last, as normal.
