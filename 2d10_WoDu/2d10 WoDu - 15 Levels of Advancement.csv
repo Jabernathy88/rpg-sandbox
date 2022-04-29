@@ -1,0 +1,28 @@
+,,,,,,,,,
+,  F-TIER  -  Funnel,,,,,,,,All F-Tier characters count as Level 0
+,Level,Ability Ratings,Total,Talents,Total,Max HP (+ STR),,,
+,0,"Distribute 1, 0, 0, -1",0,—,0,5,Roll for 1 random Relic,,Max HP = Base HP + STR
+,,,,,,,,,
+,  B-TIER  -  Basic Hero,,,,,,,,
+,Level,Ability Ratings,Total,Talents,Total,Max HP (+ STR),Notes,,
+,1,"Distribute 2, 1, 1, -1",3,1 Basic Talent,1,10,Roll for 1 Random Contact,,"Level 1 Talents: The optional ""fantasy suite"" will include hybrid talents for fighter-mage archetypes."
+,2,+1 (max 4),4,,1,10,,,
+,3,,4,+1 Basic,2,11,,,HP goes up on odd-number levels.
+,4,+1 (max 4),5,,2,11,,,
+,5,,5,+1 Basic,3,12,Roll for new Contact -or- Relic,,
+,6,+1 (max 4),6,,3,12,,,
+,7,,6,+1 Basic,4,13,,,
+,8,+1 (max 4),7,,4,13,,,17 HP = expected max at 8th level
+,,,,,,,,,
+, A-TIER  -  Advanced Hero,,,,,,,,"If the GM thinks it seems fair and reasonable, you may also rearrange ability ratings in between story arcs."
+,Level,Ability Ratings,Total,Talents,Total,Max HP (+ STR),Notes,,
+,9,,7,+1 Basic or Advanced,5,14,Roll for Advanced Asset,,
+,10,+1 (max 5),8,,5,14,,,"Advanced Assets include headquarters, vehicles, powerful artifacts, etc."
+,11,,8,+1 Basic or Advanced,6,15,,,
+,12,+1 (max 5),9,,6,15,,,
+,13,,9,+1 Basic or Advanced,7,16,Roll for Advanced Asset,,Talents can allow higher max STR at 14 or 15th level.
+,14,+1 (max 5),10,,7,16,,,
+,15,,10,+1 Basic or Advanced,8,17,,,22 HP = expected max at 15th level
+,,,,,,,,,
+, S-TIER  -  Superheroes only,,,,,,,,
+,,             (Maybe in a future supplement ... but intentionally left out of these core rules.),,,,,,,

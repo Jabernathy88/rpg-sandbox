@@ -15,7 +15,7 @@ AC11;hp25
 7. Blayze Gobbar: Treat as Cultist (MM 345, CR1/8, 25 XP)
 with AC 13 (leather armor and shield); hp 9; D 1d6
 (shortsword)
-8. Bonesnapper: Treat as young T. rex (MM 80) but reduce
+8. Bonesnapper: Treat as young T. rex (MM 80) but r     qeduce
 all stats for small size. AC 13, hp 30, D 1d8/1d4
 9. Carrion Crawler: Carrion Crawler (MM 37, CR 2, 450 XP)
 AC 13; hp 40; D2d4+2, 1d4+2 and poison.
