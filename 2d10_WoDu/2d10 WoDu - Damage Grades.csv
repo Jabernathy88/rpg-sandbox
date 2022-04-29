@@ -1,0 +1,23 @@
+,,,,,
+, WEAPON DAMAGE,,,,
+,GRADE,DICE, Notes,,
+,S,d20, Mecha Self-Destruct,,
+,A, d16*," Heavy Mecha Canon, Mecha Halberd",,"For d16, roll d8 x2 or use DCC dice (or an online dice roller)."
+,B,d12," Medium Mecha Canon, Mecha Beam Saber",,
+,C,d10," Heavy Rifle, Small Mecha Turret",,
+,D,d8," Rifle, Plasma Sword, Mecha Fists, Impaired Mecha",,
+,E,d6," Knife, Pistol (aka small arms)",,Mecha are immune to small arms (d6 damage or lower)
+,F,d4," Fists, Impaired Human",,"Unlike human-size combatants, vehicles and Mecha may have up to 4 armor."
+,,,,,
+,,,,,
+,"The dice notation d6+ means ""Roll two d6 and keep the highest one.""",,,,
+,You roll one extra die for each plus symbol. So d6++ means roll two extra dice (3d6 in total) and keep the highest single result.,,,,
+,"In my head, d6++ is pronounced ""dee six plus plus,"" but you do you.",,,,
+,,,,,
+,"By contrast, d6– means ""Roll two d6 and keep the lowest,"" and d6–– means to roll 3d6 and keep the lowest.",,,,
+,"If reading out loud, I pronounce these like ""dee six minus"" and ""dee six minus minus.""",,,,
+,"In the full rules text, these notations will have color-coding and formatting for visual clarity.",,,,
+,,,,,
+,"These bonuses stack (as in the example of multiple attackers), but you only ever keep the one highest die result.",,,,
+,"I like to think of each plus as a bonus die, and each minus as a penalty die.",,,,
+,"If rules interact such that there both plus and minus symbols, each bonus cancels out one penalty.",,,,
