@@ -9,3 +9,4 @@
  * Investigation pushes like Lowell Frances's NBA Express
  * Skill names from Cthulhu Confidential by Pelgrane Press
  * Weapons and dynamite ala Pulp Cthulhu
+ more ...
