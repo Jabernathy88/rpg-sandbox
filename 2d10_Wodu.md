@@ -467,3 +467,9 @@ _(The GM may call for a different stat based on the fiction. For example, if it'
 **Round 2**: Characters are no longer surprised. The spotlight goes to all of the players first, and then all enemies may act as normal.
 
 **Round 3**: And so on, players first and enemies last, as normal.
+
+Simple Version
+Roll 2d10 + Ability Rating. If your total is equal to 12 or higher, you succeed. 
+
+DR: Simple Pass or Fail
+As in the example above, the default difficulty rating is DR:12. The abbreviation “DR“ simply stands for “difficulty rating” (or “dice roll” if that’s easier) and indicates the target number. If your total roll equals the DR or higher, you succeed.
