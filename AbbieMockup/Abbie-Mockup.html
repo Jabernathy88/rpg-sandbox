@@ -44,7 +44,8 @@
                 </button>
               </h4>
             </div>
-            <div id="characterAccordion-collapse-1" class="accordion-collapse collapse show" aria-labelledby="characterAccordion-heading-1" data-bs-parent="#characterAccordion-1">
+            <!-- GIVE CLASS 'SHOW' to show on page load -->
+            <div id="characterAccordion-collapse-1" class="accordion-collapse collapse" aria-labelledby="characterAccordion-heading-1" data-bs-parent="#characterAccordion-1">
               <div class="accordion-body p-2">
 
                 <div class="char-name-container">
@@ -408,19 +409,32 @@
 
           <!-- END CHARACTER AREA  -->
           <div class="accordion-item bg-dark text-light">
-            <h4 class="accordion-heade bg-dark text-light" id="characterAccordion-heading-3">
+            <h4 class="accordion-header bg-dark text-light" id="characterAccordion-heading-3">
               <button class="accordion-button bg-dark text-light fs-4" type="button" data-bs-toggle="collapse" data-bs-target="#characterAccordion-collapse-3" aria-expanded="true" aria-controls="characterAccordion-collapse-3">
                 Dice Roller 
                 <!-- ADJUST PADDING IN THIS ITEM TO CHANGE HEADER THICKNESS -->
               </button>
             </h4>
           </div>
-          <div id="characterAccordion-collapse-3" class="accordion-collapse collapse" aria-labelledby="characterAccordion-heading-3" data-bs-parent="#characterAccordion-1">
+          <div id="characterAccordion-collapse-3" class="accordion-collapse collapse show" aria-labelledby="characterAccordion-heading-3" data-bs-parent="#characterAccordion-1">
             <div class="accordion-body">
-              <p>jkdlsjfkflads;jfakl;</p>
-              <p>jkdlsjfkflads;jfakl;</p>
-              <p>jkdlsjfkflads;jfakl;</p>
+              <p>To roll for a Risky Action:</p>
+              <p>Check all that apply:</p>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                <label class="form-check-label" for="flexCheckDefault">
+                  Default checkbox
+                </label>
+              </div>
+              <div class="form-check">
+                <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+                <label class="form-check-label" for="flexCheckChecked">
+                  Checked checkbox
+                </label>
+              </div>
 
+
+              
             </div>
           </div>
         </div>
