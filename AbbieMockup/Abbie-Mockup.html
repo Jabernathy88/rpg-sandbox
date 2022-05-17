@@ -45,7 +45,7 @@
               </h4>
             </div>
             <!-- GIVE CLASS 'SHOW' to show on page load -->
-            <div id="characterAccordion-collapse-1" class="accordion-collapse collapse" aria-labelledby="characterAccordion-heading-1" data-bs-parent="#characterAccordion-1">
+            <div id="characterAccordion-collapse-1" class="accordion-collapse collapse show" aria-labelledby="characterAccordion-heading-1" data-bs-parent="#characterAccordion-1">
               <div class="accordion-body p-2">
 
                 <div class="char-name-container">
@@ -57,7 +57,6 @@
                     <input type="text" id="inputName" class="form-control" aria-describedby="nameHelpInline">
                   </div>
                 </div>
-
                 <!-- START SKILLS!!.................................... -->
                 <div class="p-2"></div>
                 <div class="char-skills-container">
@@ -143,17 +142,14 @@
                     </button>
                   </div>
                 </div>
-
                 <!-- START RITUALS -->
                 <div class="p-2"></div>
-
                 <div class="char-skills-container">
                   <div class="skills-label">
                     <span class="material-symbols-outlined fs-6"> star </span>
                     <span class="fs-5 px-1"> Rituals </span>
                   </div>
                   <div class="row px-2">
-
                     <div class="col-6 px-0">
                       <div class="ritual-container-1.1.left px-1">
                         <select class="form-select form-select-sm" aria-label="Default select example">
@@ -203,7 +199,6 @@
                         </select>
                       </div>
                     </div>
-
                     <div class="col-6 px-1">
                       <div class="ritual-container-1.1.right">
                         <select class="form-select form-select-sm" aria-label="Default select example">
@@ -250,7 +245,6 @@
                           <option value="1">bodies</option>
                           <option value="1">beast</option>
                           <option value="1">wall</option>
-
                         </select>
                       </div>
                     </div>
@@ -261,17 +255,13 @@
                       </button>
                     </div>
                   </div>
-
                   </div>
-
                   <div class="p-2"></div>
-
                   <div class="char-equipment-container">
                     <div class="equipment-label">
                       <span class="material-symbols-outlined fs-6"> star </span>
                       <span class="fs-5">Equipment</span>
                     </div>
-    
                     <div class="equip-1-container">
                       <select class="form-select form-select-sm" aria-label="Default select example">
                         <option selected>Select Equipment</option>
@@ -306,7 +296,6 @@
                         <option value="4">twine (300 ft)</option>
                       </select>
                     </div>
-    
                     <div class="equip-2-container pt-2">
                       <select class="form-select form-select-sm" aria-label="Default select example">
                         <option selected>Select Equipment</option>
@@ -376,18 +365,15 @@
                         <option value="4">twine (300 ft)</option>
                       </select>
                     </div>
-
                     <div class="pt-2">
                       <input type="text" id="inputEquip_1.4" class="form-control form-control-sm" aria-describedby="nameHelpInline">
                     </div>
-
                     <div class="px-0 py-2">
                       <button type="button" class="btn btn-outline-success btn-sm">
                         <i class="bi bi-plus-circle"></i>
                         <span class="">Add equipment</span>
                       </button>
                     </div>
-
                   <!-- RANDOMIZE BUTTON -->
                   <div class="py-2 text-center d-grid gap-2 w-50 m-auto">
                     <button type="button" class="btn btn-outline-secondary">
@@ -403,8 +389,6 @@
                 </div>
               </div>
             </div>
-
-
           <!-- END CHARACTER AREA  -->
           <div class="accordion-item bg-dark text-light">
             <h4 class="accordion-header bg-dark text-light" id="characterAccordion-heading-3">
@@ -414,13 +398,10 @@
               </button>
             </h4>
           </div>
-          <div id="characterAccordion-collapse-3" class="accordion-collapse collapse show" aria-labelledby="characterAccordion-heading-3" data-bs-parent="#characterAccordion-1">
+          <div id="characterAccordion-collapse-3" class="accordion-collapse collapse" aria-labelledby="characterAccordion-heading-3" data-bs-parent="#characterAccordion-1">
             <div class="accordion-body">
-
               <h4 class="text-center pe-2">Pool: <span class="text-success">5</span></h4>
-
               <h6 class="pt-1">For any risky action, check all that apply:</h6>
-
               <form class="">
                 <!-- STRESS DIE -->
                   <div class="pt-2">
@@ -506,16 +487,13 @@
                     </label>
                   </div>
                 </div>
-
                 <div class="pt-3 text-center d-grid gap-2 w-50 m-auto">
                   <button type="button" class="btn btn-outline-danger">
                     <i class="bi bi-dice-5-fill"></i>
                     <span class="ps-1">Roll Dice Pool</span>
                   </button>
                 </div>
-
                 <h6 class="pt-4">Other dice actions:</h6>
-
                 <div class="py-1 text-center d-grid gap-2 w-50 m-auto">
                   <button type="button" class="btn btn-outline-secondary">
                     <i class="bi bi-dice-1-fill"></i>
@@ -530,27 +508,19 @@
                     <span class="ps-1">Die of Fate</span>
                   </button>
                 </div>
-
-
               </form>
-
-
             </div>
           </div>
         </div>
       </div>
-
       <!-- HIDDEN COLUMNS -->
-        <div class="col-md-4 text-light">
-          2 of 3
-        </div>
-        <div class="col-md-4">
-          3 of 3
-        </div>
-    </div>
-
-      <br />
-      <br />
+      <div class="col-md-4 text-light">
+        2 of 3
+      </div>
+      <div class="col-md-4 text-light">
+        3 of 3
+      </div>
+      </div>
       <div class="row bg-secondary p-2 text-secondary">
         <div class="col">
           1 of 3
@@ -563,12 +533,9 @@
         </div>
       </div>
     </div>
-
     <!-- Optional JavaScript; choose one of the two! -->
-
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-
     <!-- Option 2: Separate Popper and Bootstrap JS -->
     <!--
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
