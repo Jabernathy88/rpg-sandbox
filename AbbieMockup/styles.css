@@ -1,8 +1,9 @@
-
-
 body, h1, h2, h3, h4, h5,
 p, span, div {
   font-family: 'Averia Serif Libre', cursive;  
 }
 
-
+.form-check-label {
+  font-size: 0.8em;
+  padding-top: 3px;
+}

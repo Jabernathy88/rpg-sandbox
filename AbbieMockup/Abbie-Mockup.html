@@ -418,23 +418,107 @@
           </div>
           <div id="characterAccordion-collapse-3" class="accordion-collapse collapse show" aria-labelledby="characterAccordion-heading-3" data-bs-parent="#characterAccordion-1">
             <div class="accordion-body">
-              <p>To roll for a Risky Action:</p>
-              <p>Check all that apply:</p>
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-                <label class="form-check-label" for="flexCheckDefault">
-                  Default checkbox
-                </label>
-              </div>
-              <div class="form-check">
-                <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
-                <label class="form-check-label" for="flexCheckChecked">
-                  Checked checkbox
-                </label>
+
+              <div class="row">
+                <div class="col-6">
+                  <h4 class="text-end">Pool:</h4>
+                </div>
+                <div class="col-6">
+                  <h4 class="text-start text-success">
+                    5
+                  </h4>
+                </div>
               </div>
 
+              <h6 class="pt-2">For any risky action, check all that apply:</h6>
 
-              
+              <form class="">
+                <!-- STRESS DIE -->
+                  <div class="pt-2">
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+                      <label class="form-check-label" for="flexCheckChecked">
+                        <span class="">
+                          Stressed.
+                        </span> 
+                        <span class="text-secondary">
+                          Risky actions are inherently stressful so you always begin by taking the stress die.
+                        </span>
+                      </label>
+                    </div>
+                  </div>
+                <!-- UNCONDITIONED / HEALTHY DIE -->
+                <div class="pt-1">
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
+                    <label class="form-check-label" for="flexCheckChecked">
+                      <span class="">
+                        Unconditioned.
+                      </span> 
+                      <span class="text-secondary">
+                        You are clear of all conditions on your character sheet.
+                      </span>
+                    </label>
+                  </div>
+                </div>
+                <!-- SKILLED DIE -->
+                <div class="pt-1">
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
+                    <label class="form-check-label" for="flexCheckChecked">
+                      <span class="">
+                        Skilled.
+                      </span> 
+                      <span class="text-secondary">
+                        You have the right tool for the job.
+                      </span>
+                    </label>
+                  </div>
+                </div>
+                <!-- EEQUPPED DIE -->
+                <div class="pt-1">
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
+                    <label class="form-check-label" for="flexCheckChecked">
+                      <span class="">
+                        Equipped.
+                      </span> 
+                      <span class="text-secondary">
+                        You are putting your expertise to use.
+                      </span>
+                    </label>
+                  </div>
+                </div>
+                <!-- SUPPORTED / HELP DIE -->
+                <div class="pt-1">
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
+                    <label class="form-check-label" for="flexCheckChecked">
+                      <span class="">
+                        Supported.
+                      </span> 
+                      <span class="text-secondary">
+                        You are supported by others in the fiction who will share the risk narratively and, if applicable, when you read the stress die.
+                      </span>
+                    </label>
+                  </div>
+                </div>
+                <!-- ADVANTAGED / CONTEXTUAL POSITIONING -->
+                <div class="pt-1">
+                  <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked">
+                    <label class="form-check-label" for="flexCheckChecked">
+                      <span class="">
+                        Advantaged.
+                      </span> 
+                      <span class="text-secondary">
+                        Your previous actions have earned you leverage or the upper hand.
+                      </span>
+                    </label>
+                  </div>
+                </div>
+              </form>
+
             </div>
           </div>
         </div>
