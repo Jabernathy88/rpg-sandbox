@@ -183,9 +183,6 @@ HIGHEST OF 2D6
 5	25.00	 
 6	30.56
 
-
-
-
 CHARACTER GENERATION
 
 Character Generation
@@ -211,16 +208,12 @@ Start your character at Level 0. For your starting Ability Ratings, distribute 1
 
 Then at Level 1, reassign your Ability Ratings with 2, 1, 1, -1. Choose a normal Background. Calculate your Max HP as normal: 11 + STR. As a group, you might want to discuss advancing the story with a slight “time skip,” perhaps 1-6 months to reflect a short period of training. (See more under ADVANCEMENT below.)
 
-
-	
 BACKGROUND 
 
 Table forthcoming. I will probably base the backgrounds on Cairn and Electric Bastionland. Examples: Soldier, Pilot, Scientist, Psychic. (What’s your profession? What makes your character special in this story?)
 
 Add an extra d10 to a your roll when your Background applies, keeping the highest two dice. For example, if your Background is “Getaway Driver,” and you are trying to maneuver a motorcycle to avoid gunfire, roll 3d10k2 + DEX. (The dice notation “k2” means that you keep the highest two out of the three dice rolled.) 
 
-
-	
 ADVANCEMENT
 
 All XP decisions are ultimately up to the GM. Feel free to discuss and revisit the decision, however, between sessions or story arcs as needed.
