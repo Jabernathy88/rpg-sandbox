@@ -218,172 +218,6 @@ ADVANCEMENT
 
 All XP decisions are ultimately up to the GM. Feel free to discuss and revisit the decision, however, between sessions or story arcs as needed.
 
-Level
-Ability Ratings
-Total 
-Special Moves, Etc.
-Moves
-HP Max
-Notes
-0
-Distribute 1, 0, 0, -1 
-1
- — 
- — 
-5 +STR
-Gritty
-1
-Distribute 2, 1, 1, -1
-3
-Start with 1 Special Move
-1
-11 +STR
-Action Hero
-2
-+1 (max 3)
-4
-
-
-
-
-12 +STR
-
-
-3
-
-
-
-
-+1 Special Move 
-2
-13 + STR
-
-
-4
-+1 (max 3)
-5
-
-
-
-
-14 + STR
-
-
-5
-
-
-
-
-+1 Special Move
-3
-15 +STR
-
-
-6
-+1 (max 4)
-6
-
-
-
-
-16 +STR
-Superhero
-7
-
-
-
-
-+1 Special Move
-4 
-17 +STR
-
-
-8
-+1 (max 4)
-7
-
-
-
-
-18 +STR
-
-
-9
-
-
-
-
-+1 Special or Advanced Move
-5 
-19 +STR
-
-
-10
-+1 (max 5)
-8
-
-
-
-
-20 +STR
-
-
-11
-
-
-
-
-+1 Special or Advanced Move
-6 
-21 +STR
-Beyond Super 
-12
-+1 (max 5)
-9
-
-
-
-
-22 +STR
-
-
-13
-
-
-
-
-+1 Special or Advanced Move
-7 
-23 +STR
-
-
-14
-+1 (max 6)
-10
-
-
-
-
-24 +STR
-
-
-15
-
-
-
-
-+1 Special or Advanced Move
-8
-25 +STR
-
-
-
-
-
-
-
-
-
 Fast or Slow
 As a group, discuss whether you prefer slow or fast advancement: 
 If the group chooses fast advancement, a character needs 10 XP to reach the next level.
@@ -407,9 +241,6 @@ Such XP can be awarded immediately, in the moment, or at the end of the session.
 Chapter Bonus
 At the end of a multi-session arc, consider awarding a chapter bonus of 1–4 XP for the whole group. Also, consider awarding this bonus to PCs who were absent and might need help catching up during the next arc.
 
-	
-
-
 SPECIAL MOVES
 
 TBD, forthcoming. I’ll probably just borrow playbook moves from other PbtA games, and you are welcome to experiment, as well.
@@ -428,7 +259,7 @@ Revolver				d10 ranged
 Shotgun				d10 blast		
 Dual swords, twin pistols		2d10▲k1  (roll 2 dice, keep highest 1)	
 
-			Hero Power									
+Hero Power									
 3+1		Optic Laser Beam  (as revolver +1)	d10 +1 ranged	
 Mutant Claws  (as dual swords +1)	2d10▲k1 +1 melee			
 
