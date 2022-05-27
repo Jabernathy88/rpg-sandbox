@@ -278,11 +278,14 @@ The GM rolls 1d6 for all enemies and, before the roll, may declare a +1 or -1 mo
  * **4-6**:	One enemy -or- all enemies have a head start. The rest are simply ready and not surprised.
 
 Each player rolls DEX.
- * **16+	Great**:	You have a **head start** — you may act during Round 1, and you have advantage on rolls to attack against enemies who are surprised.
+ * **16+	Great**:
+ You have a **head start** — you may act during Round 1, and you have advantage on rolls to attack against enemies who are surprised.
 
- * **13+	Fair**:		You are  **simply ready** — you do not get a spotlight during Round 1 of combat, but you are not considered surprised and do not suffer any disadvantage related to initiative.
+ * **13+	Fair**:
+ You are  **simply ready** — you do not get a spotlight during Round 1 of combat, but you are not considered surprised and do not suffer any disadvantage related to initiative.
 
- * **12-**:					You are  **surprised** — during Round 1 of combat, you do not get a spotlight and you have disadvantage on rolls to defend against enemies who have a head start.
+ * **12-**:
+ You are  **surprised** — during Round 1 of combat, you do not get a spotlight and you have disadvantage on rolls to defend against enemies who have a head start.
 
 _(The GM may call for a different stat based on the fiction. For example, if it's a courtly social challenge, initiative based on WIT or CHA might make sense.)_
 

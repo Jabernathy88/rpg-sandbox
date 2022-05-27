@@ -1,0 +1,130 @@
+[
+    {
+        "id": "100546",
+        "story_role": "Major Witness: Helps ID an Accomplice",
+        "gender": "She / Female",
+        "first_initial": "W",
+        "last_initial": "H",
+        "archetype": {
+            "name": "MAGICIAN",
+            "goal": "",
+            "strength": "",
+            "weakness": ""
+        },
+        "culture": "Nonhuman",
+        "faction": "Supervillains",
+        "current_mood": "Distracted"
+    },
+    {
+        "id": "100187",
+        "story_role": "Major Witness: Helps ID an Accomplice",
+        "gender": "She / Female",
+        "first_initial": "N",
+        "last_initial": "Y",
+        "archetype": {
+            "name": "REBEL",
+            "goal": "",
+            "strength": "",
+            "weakness": ""
+        },
+        "culture": "White New Yorker, Canadian, Southern, West Coast",
+        "faction": "Silicon Valley",
+        "current_mood": "Just small talk"
+    },
+    {
+        "id": "100220",
+        "story_role": "Helpful Witness: Killer's Motive",
+        "gender": "They / Nonbinary / Nonhuman",
+        "first_initial": "K",
+        "last_initial": "L",
+        "archetype": {
+            "name": "ORPHAN",
+            "goal": "",
+            "strength": "",
+            "weakness": ""
+        },
+        "culture": "White New Yorker, Canadian, Southern, West Coast",
+        "faction": "News Media",
+        "current_mood": "Sad or stressed"
+    },
+    {
+        "id": "100231",
+        "story_role": "Unhelpful: Believes in Authorities",
+        "gender": "She / Female",
+        "first_initial": "X",
+        "last_initial": "T",
+        "archetype": {
+            "name": "ORPHAN",
+            "goal": "",
+            "strength": "",
+            "weakness": ""
+        },
+        "culture": "Asian, Indian, Middle Eastern",
+        "faction": "Military or Feds",
+        "current_mood": "I'm bored. What's up?"
+    },
+    {
+        "id": "10045",
+        "story_role": "Friend of Bad Guys (In Denial)",
+        "gender": "He / Male",
+        "first_initial": "N",
+        "last_initial": "T",
+        "archetype": {
+            "name": "HERO",
+            "goal": "",
+            "strength": "",
+            "weakness": ""
+        },
+        "culture": "White New Yorker, Canadian, Southern, West Coast",
+        "faction": "Organized Crime",
+        "current_mood": "Let's be serious"
+    },
+    {
+        "id": "100162",
+        "story_role": "Problem Witness: Client Motive",
+        "gender": "She / Female",
+        "first_initial": "A",
+        "last_initial": "D",
+        "archetype": {
+            "name": "CAREGIVER",
+            "goal": "",
+            "strength": "",
+            "weakness": ""
+        },
+        "culture": "White New Yorker, Canadian, Southern, West Coast",
+        "faction": "News Media",
+        "current_mood": "Just small talk"
+    },
+    {
+        "id": "100757",
+        "story_role": "Unreliable Witness: Blames Unrelated Criminals",
+        "gender": "She / Female",
+        "first_initial": "J",
+        "last_initial": "W",
+        "archetype": {
+            "name": "LOVER",
+            "goal": "",
+            "strength": "",
+            "weakness": ""
+        },
+        "culture": "Nonhuman",
+        "faction": "News Media",
+        "current_mood": "Feeling great today"
+    },
+    {
+        "id": "100861",
+        "story_role": "Helpful Witness: Killer's Opportunity/Alibi",
+        "gender": "She / Female",
+        "first_initial": "U",
+        "last_initial": "W",
+        "archetype": {
+            "name": "INNOCENT",
+            "goal": "",
+            "strength": "",
+            "weakness": ""
+        },
+        "culture": "Latino",
+        "faction": "Holleywood",
+        "current_mood": "Just small talk"
+    }
+]
