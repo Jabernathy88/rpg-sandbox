@@ -1,5 +1,6 @@
-This will be a thing.
+# City of Mists Accelerated
 
-What did John say way back when?
+## C.A.T.S.
 
-John was actually not that hater that I thought. He was simply skeptical of the Venture City approach. Hmm. 
+ * **Concept**: I want to port the setting of City of Mist to a fictional version of 1980s Miami, Florida. The players are associated with a private detective agency located somewhere around South Beach, Wynwood, or Little Havana. The world of fables is real, hidden as if behind a tropical mist. Threats might include a ghost pirate ship stalking the Caribbean beaches, or a gang of teenage ninja Kappa hiding in the sewers. Mysteries of myth coexist and intermingle with more mundane dangers including Italian Costa Nostra and the Columbian cartel. 
+ 
