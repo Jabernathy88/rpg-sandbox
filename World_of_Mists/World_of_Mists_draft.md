@@ -1,12 +1,14 @@
 # City of Mist Accelerated
 
-System will be a lightweight, custom version of FATE Accelerated Edition. Also incorportes ideas from Tunnel Goons, World of Dungeons, KULT, and of course, City of Mist RPG.
+System will be a lightweight, custom version of _FATE Accelerated Edition_. Combines some small ideas from _Tunnel Goons_, _World of Dungeons_, _KULT_, and of course, _City of Mist_, the RPG by Amít Moshe.
 
 ## Summary
 
 This world is like the comic book _Fables_ meets the tv show _Miami Vice_. 
 
-Essentially it's a setting drift of **_City of Mist_**, the RPG by Amít Moshe, transported to a fictional version of 1980s Miami, Florida. The players are associated with a private detective agency located somewhere around South Beach, Wynwood, or Little Havana. The world of fables is real -- hidden as if behind a tropical mist. Threats might include a ghost pirate ship kidnapping tourists along the Caribbean beaches, or a gang of teenage ninja Kappa hiding in the sewers. Mysteries of myth coexist and intermingle with more mundane dangers including Italian Cosa Nostra or the Columbian cartel.
+Essentially it's a setting drift of **_City of Mist_** transported to a fictional version of 1980s Miami, Florida. The players are associated with a private detective agency located somewhere around South Beach, Wynwood, or Little Havana. The world of fables is real -- hidden as if behind a tropical mist. 
+
+Threats might include a ghost pirate ship kidnapping tourists along the Caribbean beaches, or a gang of teenage ninja Kappa hiding in the sewers. Mysteries of myth coexist and intermingle with more mundane dangers including Italian Cosa Nostra or the Columbian cartel.
 
 ## Week 1: Pitch Points & Inspiration!
 
