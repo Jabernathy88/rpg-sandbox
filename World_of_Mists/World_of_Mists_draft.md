@@ -14,18 +14,21 @@ Threats might include a ghost pirate ship kidnapping tourists along the Caribbea
 
 ### What to know before you play
 
- * **Each player character has a "mythos"** — a mystical force that gives you extraordinary abilities. This mythos is usually based on a fable or legendary archetype such as Gilgamesh, Amaterasu, or Quetzalcóatl. Your character also has a **"logos"**, which represents your mundane human identity and your obliglations to family or community. So, for example, during the daytime you might be a humble car mechanic, but by night, you fight crime as the modern incarnation of Hephaestus, God of the Forge.
+ **1.** **Each player character has a "mythos"** — a mystical force that gives you extraordinary abilities. This mythos is usually based on a fable or legendary archetype such as Gilgamesh, Amaterasu, or Quetzalcóatl. Your character also has a **"logos"**, which represents your mundane human identity and your obliglations to family or community. So, for example, during the daytime you might be a humble car mechanic, but by night, you fight crime as the modern incarnation of Hephaestus, God of the Forge.
 
- * **Pitch Point 2** — lorem ipsem, placeholder.
+ **2.** **Pitch Point 2** — lorem ipsem, placeholder.
 
- * **Pitch Point 3** — lorem ipsem, placeholder.
+ **3.** **Pitch Point 3** — lorem ipsem, placeholder.
 
 ### Inspiration: Player Facing
 
- * **City of Mist** — specifically the City of Mist Player's Guide and Starter Set.
- * **Miami Vice** and Burn Notice — tv shows set in Miami with a similar vibe. Characters take on "cases" to defend the weak, explore the urban environment, chat up locals for gossip, and the occasional boat ride outside the city (both ocean and swamp).
- * **Jessica Jones** — tv show featuring and imperfect superhero / private eye. More street-level threats rather than big global villains. Private Detective agencies. Also: **Dare Devil** and season 1 of **Young Justice**.
- * **Fables** -- comic books very much in line with how superpowers are explained in the City of Mist setting. Also: **American Gods** by Neil Gaiman. 
+ **1.** **City of Mist** — specifically the City of Mist Player's Guide and Starter Set.
+
+ **2.** **Miami Vice** and Burn Notice — tv shows set in Miami with a similar vibe. Characters take on "cases" to defend the weak, explore the urban environment, chat up locals for gossip, and the occasional boat ride outside the city (both ocean and swamp).
+ 
+ **3.** **Jessica Jones** — tv show featuring and imperfect superhero / private eye. More street-level threats rather than big global villains. Private Detective agencies. Also: **Dare Devil** and season 1 of **Young Justice**.
+ 
+ **4.** **Fables** — comic books very much in line with how superpowers are explained in the City of Mist setting. Also: **American Gods** by Neil Gaiman. 
 
 ### Inspiration: GM Facing
 
