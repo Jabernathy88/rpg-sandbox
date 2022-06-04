@@ -24,7 +24,7 @@ Threats might include a ghost pirate ship kidnapping tourists along the Caribbea
 
  * **City of Mist** — specifically the City of Mist Player's Guide and Starter Set.
  * **Miami Vice** and Burn Notice — tv shows set in Miami with a similar vibe. Characters take on "cases" to defend the weak, explore the urban environment, chat up locals for gossip, and the occasional boat ride outside the city (both ocean and swamp).
- * **Jessica Jones** — tv shows featuring imperfect superheroes of moderate-to-low power who fight more grounded threats compared to their blockbuster counterparts. More street-level threats rather than big global villains. Private Detective agencies. Also: **Dare Devil** and season 1 of **Young Justice**.
+ * **Jessica Jones** — tv show featuring and imperfect superhero / private eye. More street-level threats rather than big global villains. Private Detective agencies. Also: **Dare Devil** and season 1 of **Young Justice**.
  * **Fables** -- comic books very much in line with how superpowers are explained in the City of Mist setting. Also: **American Gods** by Neil Gaiman. 
 
 ### Inspiration: GM Facing
