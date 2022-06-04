@@ -14,11 +14,9 @@ Essentially it's a setting drift of **_City of Mist_**, the RPG by Amít Moshe, 
 
  * **Each player character has a "mythos"** -- a mystical force that gives you extraordinary abilities. This mythos must be based on a fable or archetype of legend such as Gilgamesh, Amaterasu, or Quetzalcóatl. Your character also has a logos, which represents your mundane human identity and obliglations to family or community. So, for example, during the daytime you might be a humble car mechanic, but by night you fight crime as the personification of Hephaestus, god of the forge.
 
- * **Pitch 2** -- lorem ipsem, booty.
+ * **Pitch Point 2** -- lorem ipsem, placeholder.
 
- * **Pitch 3** -- lorem ipsem, booty.
-
- * **Pitch 4** -- lorem ipsem, booty.
+ * **Pitch Point 3** -- lorem ipsem, placeholder.
 
 ### Inspiration: Player Facing
 
