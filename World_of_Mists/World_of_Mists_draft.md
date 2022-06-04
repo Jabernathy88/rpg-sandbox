@@ -42,7 +42,7 @@ Threats might include a ghost pirate ship kidnapping tourists along the Caribbea
  
 #### Honorable Mentions
 
- - **Google Earth and Wikipedia** — because I'm adapting a real-world location into an original fictional universe. In my mind, the game world is connected to other urvan fantasy RPGs I've run (_Monster of the Week_, etc.), but these connections won't be important to players joiniing me for the first time.
+ - **Google Earth and Wikipedia** — because I'm adapting a real-world location into an original fictional universe. 
  - **Dexter, True Blood** — the tv shows set in Miami and Louisiana hinting at a tropical Southern gothic mood.
  - **Watchmen / Tales of the Black Freighter** — the "easter egg" story of a gentleman who transforms into a degenerate pirate, a fame narrative told by the comic-within-a-comic of Watchmen by Alan Moore.
  - **1980s Swamp Thing** — wonderful comic books series that rebooted the swampland anti-hero, also written by Alan Moore.
