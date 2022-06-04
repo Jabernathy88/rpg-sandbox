@@ -36,17 +36,17 @@ Threats might include a ghost pirate ship kidnapping tourists along the Caribbea
 
  **1.** **City of Mist: Nights of Payne Town** campaign compilation — might try to adapt some of these scenarios such as "Killing Her Softly" and other surreal crime-noir mysteries.
 
- **2.** **Augmented Reality** — solid quality random tables for generating cyberpunk settings, but some is applicable to a retro urban fantasy environment.
+ **2.** **Augmented Reality** — solid quality random tables for generating cyberpunk settings, but some is applicable here, as well.
 
- **3.** **Electric Bastionland** — advice and procedures for creating city buroughs and dungeon-esque mapping in unusual urban environments.
+ **3.** **Electric Bastionland** — advice and spark tables for city buroughs and dungeon-esque mapping in urban environments.
  
 #### Honorable Mentions
 
- - **Google Earth and Wikipedia** — because I'm adapting a real-world location into an original fictional universe. 
- - **Dexter, True Blood** — the tv shows set in Miami and Louisiana hinting at a tropical Southern gothic mood.
+ - **Google Earth and Wikipedia** — for adapting real-world locations into this fictional Earth setting. 
+ - **Dexter, True Blood** — the tv shows set in Miami or Louisiana hinting at a tropical Southern gothic mood.
  - **Watchmen / Tales of the Black Freighter** — the "easter egg" story of a gentleman who transforms into a degenerate pirate, a frame narrative inside of _Watchmen_ by Alan Moore.
- - **1980s Swamp Thing** — wonderful comic books series that rebooted the swampland anti-hero, also written by Alan Moore.
- - __Godfather movies__ — interesting portrayal of the Cuban Revolution (in Godfather Part 2, I think) set against the backdrop of Caribbean geopolitics and Italian organized crime.
+ - **1980s Swamp Thing** — wonderful comic series reboot of the swampland anti-hero, also by Alan Moore.
+ - __Godfather movies__ — interesting portrayal of the Cuban Revolution (in Godfather Part 2, iirc) set against the backdrop of Caribbean geopolitics and Italian organized crime.
  - **Narcos, Breaking Bad**, movies about Pablo Escabar — stories of drug cartels and the rise and fall of dynasties wihin
 
 ## Week 2: To Be Continued
