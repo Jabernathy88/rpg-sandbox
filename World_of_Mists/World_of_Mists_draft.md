@@ -22,7 +22,7 @@ Threats might include a ghost pirate ship kidnapping tourists along the Caribbea
 
 ### Inspiration: Player Facing
 
- **1.** **City of Mist** — specifically the City of Mist Player's Guide and Starter Set.
+ **1.** **City of Mist** — specifically the City of Mist Player's Guide, Starter Set.
 
  **2.** **Miami Vice** and Burn Notice — tv shows set in Miami with a similar vibe. Characters take on "cases" to defend the weak, explore the urban environment, chat up locals for gossip, and the occasional boat ride outside the city (both ocean and swamp).
  
@@ -34,13 +34,15 @@ Threats might include a ghost pirate ship kidnapping tourists along the Caribbea
 
 ### Inspiration: GM Facing
 
- - **City of Mist: Nights of Payne Town** campaign compilation — might try to adapt some of these scenarios such as "Killing Her Softly" and other surreal crime-noir mysteries.
- - **Augmented Reality** — solid quality random tables for generating cyberpunk settings, but some is applicable to a retro urban fantasy environment.
- - **Electric Bastionland** — advice and procedures for creating city buroughs and dungeon-esque mapping in unusual urban environments.
- - **Google Earth and Wikipedia** — because I'm adapting a real-world location into an original fictional universe. In my mind, the game world is connected to other urvan fantasy RPGs I've run (_Monster of the Week_, etc.), but these connections won't be important to players joiniing me for the first time.
+ **1.** **City of Mist: Nights of Payne Town** campaign compilation — might try to adapt some of these scenarios such as "Killing Her Softly" and other surreal crime-noir mysteries.
 
+ **2.** **Augmented Reality** — solid quality random tables for generating cyberpunk settings, but some is applicable to a retro urban fantasy environment.
+
+ **3.** **Electric Bastionland** — advice and procedures for creating city buroughs and dungeon-esque mapping in unusual urban environments.
+ 
 #### Honorable Mentions
 
+ - **Google Earth and Wikipedia** — because I'm adapting a real-world location into an original fictional universe. In my mind, the game world is connected to other urvan fantasy RPGs I've run (_Monster of the Week_, etc.), but these connections won't be important to players joiniing me for the first time.
  - **Dexter, True Blood** — the tv shows set in Miami and Louisiana hinting at a tropical Southern gothic mood.
  - **Watchmen / Tales of the Black Freighter** — the "easter egg" story of a gentleman who transforms into a degenerate pirate, a fame narrative told by the comic-within-a-comic of Watchmen by Alan Moore.
  - **1980s Swamp Thing** — wonderful comic books series that rebooted the swampland anti-hero, also written by Alan Moore.
