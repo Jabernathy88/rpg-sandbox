@@ -10,15 +10,13 @@ Essentially it's a setting drift of **_City of Mist_** transported to a fictiona
 
 Threats might include a ghost pirate ship kidnapping tourists along the Caribbean beaches, or a gang of teenage ninja Kappa hiding in the sewers. Mysteries of myth coexist and intermingle with more mundane dangers including Italian Cosa Nostra or the Columbian cartel.
 
-## WEEK 1
-
-### PITCH POINTS
+## WEEK 1: The Pitch
 
 * **Each player character has a "mythos"** — a mystical force that gives you extraordinary abilities. This mythos is usually based on a fable or legendary archetype such as Gilgamesh, Amaterasu, or Quetzalcóatl. Your character also has a **"logos"**, which represents your mundane human identity and your obliglations to family or community. So, for example, during the daytime you might be a humble car mechanic, but by night, you fight crime as the modern incarnation of Hephaestus, God of the Forge.
 
 **Note:** I'm going to leave the rest of the pitch "bullets" blank for now. I feel okay moving on to Week 2 with the material I already have here, although I might come back later to do some refining.
 
-### INSPIRATION: Player Facing
+### Inspiration: Player Facing
 
 * **City of Mist** — specifically the City of Mist Player's Guide, Starter Set.
 
@@ -28,7 +26,7 @@ Threats might include a ghost pirate ship kidnapping tourists along the Caribbea
  
 * **Fables** — comic book similar to how superpowers are explained in _City of Mist_. Also: **American Gods** by Neil Gaiman.
 
-### INSPIRATION: GM Facing
+### Inspiration: GM Facing
 
 * **City of Mist: Nights of Payne Town** campaign compilation — might try to adapt some of these scenarios such as "Killing Her Softly" and other surreal crime-noir mysteries.
 
