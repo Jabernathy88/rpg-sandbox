@@ -46,7 +46,7 @@ Threats might include a ghost pirate ship kidnapping tourists along the Caribbea
  - **Dexter, True Blood** — the tv shows set in Miami and Louisiana hinting at a tropical Southern gothic mood.
  - **Watchmen / Tales of the Black Freighter** — the "easter egg" story of a gentleman who transforms into a degenerate pirate, a frame narrative inside of _Watchmen_ by Alan Moore.
  - **1980s Swamp Thing** — wonderful comic books series that rebooted the swampland anti-hero, also written by Alan Moore.
- - __Godfather II__ — interesting portrayal of the Cuban Revolution against the backdrop of Caribbean geopolitics and Italian organized crime.
+ - __Godfather movies__ — interesting portrayal of the Cuban Revolution (in Godfather Part 2, I think) set against the backdrop of Caribbean geopolitics and Italian organized crime.
  - **Narcos, Breaking Bad**, movies about Pablo Escabar — stories of drug cartels and the rise and fall of dynasties wihin
 
 ## Week 2: To Be Continued
