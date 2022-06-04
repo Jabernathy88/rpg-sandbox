@@ -14,9 +14,9 @@ Threats might include a ghost pirate ship kidnapping tourists along the Caribbea
 
 ### PITCH POINTS
 
- **1.** **Each player character has a "mythos"** — a mystical force that gives you extraordinary abilities. This mythos is usually based on a fable or legendary archetype such as Gilgamesh, Amaterasu, or Quetzalcóatl. Your character also has a **"logos"**, which represents your mundane human identity and your obliglations to family or community. So, for example, during the daytime you might be a humble car mechanic, but by night, you fight crime as the modern incarnation of Hephaestus, God of the Forge.
+* **Each player character has a "mythos"** — a mystical force that gives you extraordinary abilities. This mythos is usually based on a fable or legendary archetype such as Gilgamesh, Amaterasu, or Quetzalcóatl. Your character also has a **"logos"**, which represents your mundane human identity and your obliglations to family or community. So, for example, during the daytime you might be a humble car mechanic, but by night, you fight crime as the modern incarnation of Hephaestus, God of the Forge.
 
- **2.** **Pitch Point 2** — I'm going to leave the rest of these blank for now, because with all this material, I feel okay moving on to Weeks 2 and 3. Might come back to create better clarity on player-facing bullets.
+**Note:** I'm going to leave the rest of the pitch "bullets" blank for now. I feel okay moving on to Week 2 with the material I already have here, although I might come back later to do some refining.
 
 ### INSPIRATION: Player Facing
 
