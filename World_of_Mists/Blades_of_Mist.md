@@ -124,7 +124,7 @@ Whenever you roll for Resistance, use the dice pool for the appropriate Attribut
 
 ## Seeking Refuge, sorta like Vices
 
-If your character takes a couple days off without working a case, you automatically refresh 1 stress for free. 
+If your character takes a **2-3 days off** to relax without working a case, you automatically refresh 1 stress for free. After that, there is no other mechanical benefit for taking a vacation. :-)
 
 If you choose to Seek Refuge in a more active way, you always roll **2d6**. For simplicity, this roll does not involve any Attributes or skills.
 
