@@ -102,6 +102,18 @@ Outside of dice rolls, your two Themes also grant narrative permissions on a cas
 
 Groups should make decisions about what a character can and can't do based on the fiction and precedent — as understood and agreed by all players and not just the GM. If unsure, make a ruling to keep things moving, but definitely revisit the topic during downtime to make sure everyone is on the same page going forward.
 
+## XP and Foreground Growth
+
+At the GM's discretion, you may earn **1 XP** per scene towards either Mythos or Logos. Foreground growth triggers when either rating reaches **6 XP**. Whenever this change occurs, reset both numbers to **0** and **rewrite** one of your Power Tags, your Mystery question, or your source of Refuge. 
+
+If your Power Tags change during this process, adjust your **Balance** ratings to reflect any shift in dominance between your Mythos and Logos. If your growth seems especially transformative, the GM may suggest that you rewrite the name of your Mythos Theme or Logos Theme to match the new fiction.
+
+## Balance and Consequences
+
+If your Balance tips all the way toward **Mythos** and your Logos rating drops to 0, **you lose control of your character.** Their former identity is swept away by the living legend manifesting inside of them. _(The GM will help you create a new character to resume play.)_
+
+On the other hand, if your Balance completely shifts to **Logos** and your Mythos rating is 0, your character's mythic connection fades. **You lose your powers that you once held dear**. _(You may continue playing this character if you wish, but please discuss with GM to decide what's the happiesst, most practical option for moving forward.)_
+
 ## Stress Costs
 
 * **1 Stress to push yourself.** Add **1 extra die** to your roll. _(Max 1 push per roll. Pushes must be declared before you roll.)_
@@ -140,18 +152,6 @@ If your character takes a **2-3 days off** to relax without working a case, you 
 * You are cut off from your source of Refuge, and at least one of the Crew's allies now regards you unfavorably. This applies only to you and not the group as a whole. It will take effort to reestablish or change your source of Refuge.
 * You rack up enormous debt that someone powerful wants to collect, and money won't be enough. You have to do something you won't like. The GM starts a new 8 piece clock.
 * Someone important to the Crew gets hurt. They lose their home, go to the hospital (or jail), become enchanted with magical slumber, etc. The incident should delay progress on a current case or downtime project.
-
-## XP and Foreground Growth
-
-At the GM's discretion, you may earn **1 XP** per scene towards either Mythos or Logos. Foreground growth triggers when either rating reaches **6 XP**. Whenever this change occurs, reset both numbers to **0** and **rewrite** one of your Power Tags, your Mystery question, or your source of Refuge. 
-
-If your Power Tags change during this process, adjust your **Balance** ratings to reflect any shift in dominance between your Mythos and Logos. If your growth seems especially transformative, the GM may suggest that you rewrite the name of your Mythos Theme or Logos Theme to match the new fiction.
-
-## Consequences of Balance
-
-If your Balance tips all the way toward **Mythos** and your Logos rating drops to 0, **you lose control of your character.** Their former identity is swept away by the living legend manifesting inside of them. _(The GM will help you create a new character to resume play.)_
-
-On the other hand, if your Balance completely shifts to **Logos** and your Mythos rating is 0, your character's mythic connection fades. **You lose your powers that you once held dear**. _(You may continue playing this character if you wish, but please discuss with GM to decide what's the happiesst, most practical option for moving forward.)_
 
 ## Investigating
 
