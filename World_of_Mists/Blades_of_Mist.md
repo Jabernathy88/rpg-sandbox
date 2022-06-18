@@ -115,7 +115,7 @@ Groups should make decisions about what a character can and can't do based on th
 
 To reduce the number of rolls during play, resisting a consequence is not always an option by default. But when it seems reasonable and follows the fiction, the GM may allow a Resistance roll from time to time. If unsure, err on the side of being generous.
 
-Whenever you roll for Resistance, use the dice pool for the appropriate **Attribute** without adding any other bonus die. No matter what, you **always** succeed _(you resist some or all of a consequence, as established by the GM)_, and also:
+Whenever you roll for Resistance, use the dice pool for the appropriate **Attribute** without adding any other bonus die. No matter what, you **always** succeed _(you resist some or all of a consequence, as established by the GM)_, and on:
 
 * **1-3:** Mark 3 Stress.
 * **4-5:** Mark 1 Stress.
@@ -126,7 +126,7 @@ Whenever you roll for Resistance, use the dice pool for the appropriate **Attrib
 
 If your character takes a **2-3 days off** to relax without working a case, you automatically refresh **1 stress** for free. After that, there is no other mechanical benefit for taking a vacation. :-)
 
-If you choose to Seek Refuge in a more active way, you always roll **2d6**. For simplicity, this roll does not involve Attributes or any other bonuses. No matter whatt, Seeking Refuge **always** refreshes your stress pool completely, and also:
+If you choose to Seek Refuge in a more active way, you always roll **2d6**. For simplicity, this roll does not involve Attributes or any other bonuses. No matter whatt, Seeking Refuge **always** refreshes your stress pool completely, and on:
 
 * **1-3:** Overindulge. GM picks the consequence.
 * **4-5:** Overindulge. You pick the consequence. Describe the details: How does the balance between your Mythos and Logos begin to crack or fade?
@@ -144,11 +144,14 @@ If you choose to Seek Refuge in a more active way, you always roll **2d6**. For 
 
 # XP and Foreground Growth
 
-At the GM's discretion, you may earn **1 XP** per scene towards either Mythos or Logos. Foreground growth triggers when either rating reaches **6 XP**. 
+At the GM's discretion, you may earn **1 XP** per scene towards either Mythos or Logos. Foreground growth triggers when either rating reaches **6 XP**.
 
-Whenever this change occurs, reset both numbers to **0** and **rewrite** one of your Power Tags, your Mystery question, or your Source of Refuge. If your Power Tags changed, adjust your **Balance ratings** to reflect any shift in dominance between your Mythos and Logos. If the change and timing seems especially significant, the GM may suggest you rewrite the name of your Mythos Theme or Logos Theme, as well.
+Whenever this change occurs, reset both numbers to **0** and **rewrite** one of your Power Tags, your Mystery question, or your source of Refuge. If your Power Tags change during this process, adjust your **Balance** ratings to reflect any shift in dominance between your Mythos and Logos. If your growth seems especially transformative, the GM may suggest you rewrite the name of your Mythos Theme or Logos Theme to match the fiction.
 
-If your Balance shifts all the way toward Mythos, you lose control of your character as they are swept away by the living legend manifesting inside them. If you shift all the way toward Logos, your Mythos fades and your character loses the spark of power they once held dear.
+Consequences to watch out for:
+
+* If your Balance shifts all the way toward Mythos, **you lose control** of your character — their former identity is swept away by the living legend manifesting inside of them. 
+* On the other hand, if your Balance shifts all the way toward Logos, then your character's mythic connection fades. **You lose your powers** that you once held dear. 
 
 # Investigating
 
