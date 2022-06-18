@@ -95,7 +95,7 @@ __Notes__
 * _____________________ , _____________________ .
 * _____________________ , _____________________ .
 
-## Stress
+## Stress Costs
 
 **1 Stress to push yourself.** Add 1 extra die to your roll. (Max 1 push per roll. Pushes must be declared before you roll dice.)
 
@@ -108,10 +108,11 @@ __Notes__
 To reduce the number of rolls during play, resisting a consequence is not always an option by default. But when it seems reasonable and follows the fiction, the GM may allow a Resistance roll from time to time. If unsure, err on the side of being generous.
 
 Whenever you roll for Resistance, use the dice pool for the appropriate Attribute without adding any other bonus die. No matter what, you **always** succeed in resisting some or all of a consequence as established by the GM, and:
-**1-3:** Mark 3 Stress.
-**4-5:** Mark 1 Stress.
-**6:** No change in Stress.
-**Crit:** Refresh back 1 Stress.
+
+* **1-3:** Mark 3 Stress.
+* **4-5:** Mark 1 Stress.
+* **6:** No change in Stress.
+* **Crit:** Refresh back 1 Stress.
 
 ## Seeking Refuge, sorta like Vices
 
@@ -120,12 +121,13 @@ If your character takes a couple days off without working a case, you automatica
 If you choose to Seek Refuge in a more active way, you always roll **2d6**. For simplicity, this roll does not involve any Attributes or skills.
 
 No matter the outcome, Seeking Refuge **always** refreshes your stress pool completely, and:
-**1-3:** Overindulge. GM picks the consequence.
-**4-5:** Overindulge. You pick the consequence. Describe the details: How does the balance between your Mythos and Logos begin to crack or fade?
-**6:** No consequence.
-**Crit:** The Crew also gains a new ally or earns 1 extra Cred. GM's choice, but you describe the details.
 
-Choices when you Overindulge:
+* **1-3:** Overindulge. GM picks the consequence.
+* **4-5:** Overindulge. You pick the consequence. Describe the details: How does the balance between your Mythos and Logos begin to crack or fade?
+* **6:** No consequence.
+* **Crit:** The Crew also gains a new ally or earns 1 extra Cred. GM's choice, but you describe the details.
+
+**When you Overindulge,** pick one:
 
 * You attract unwanted attention from the authorities or some other faction. The GM might represent this as heat or by using a clock.
 * Your character disappears for a month. Discuss with the GM what happened during this leave of absence.
@@ -144,5 +146,6 @@ If your Balance shifts all the way toward Mythos, you lose control of your chara
 
 # Investigating
 
-...
+More, to be written.
 
+...
