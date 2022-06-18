@@ -150,9 +150,9 @@ If your Power Tags change during this process, adjust your **Balance** ratings t
 
 ## Consequences of Balance
 
-If your Balance tips all the way toward **Mythos** and your Logos rating drops to 0, **you lose control of your character.** Their former identity is swept away by the living legend manifesting inside of them. The GM will help you create a new character to resume play.
+If your Balance tips all the way toward **Mythos** and your Logos rating drops to 0, **you lose control of your character.** Their former identity is swept away by the living legend manifesting inside of them. _(The GM will help you create a new character to resume play.)_
 
-On the other hand, if you completely shift toward **Logos** and your Mythos rating becomes 0, your character's mythic connection fades. **You lose your powers that you once held dear**. You may continue playing this character if you wish, but please discuss with GM to decide what's the happiesst, most practical option for moving forward.
+On the other hand, if your Balance completely shifts to **Logos** and your Mythos rating is 0, your character's mythic connection fades. **You lose your powers that you once held dear**. _(You may continue playing this character if you wish, but please discuss with GM to decide what's the happiesst, most practical option for moving forward.)_
 
 ## Investigating
 
