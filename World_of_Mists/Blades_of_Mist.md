@@ -69,7 +69,7 @@ _(For each above, label "M" for Mythos or "L" for Logos. At character creation, 
 
 ### Balance 
 
-_(Balance ratings always add up to 4, matching the choices for Power Tags above.)_ 
+_(Balance ratings always add up to 4, matching the choices for Power Tags above. On a regular character sheet, these ratings will have a "slider" appearance.)_ 
 
 * Mythos: 2
 * Logos: 2
