@@ -100,7 +100,7 @@ For any Risky action, you may invoke **either** your Mythos or Logos, but never 
 
 Outside of dice rolls, your two Themes also grant narrative permissions on a case by case basis. For example, consider a character with the Mythos Theme of "Amaterasu, Goddess of the Sun." She might easily be able to produce a flashlight-style effect with a snap of her fingers — no roll required. 
 
-Groups should make decisions about what a character can and can't do based on the fiction and established precedent — as understood and agreed by all players and not just the GM. If unsure, make a ruling to keep things moving, but definitely revisit the topic during downtime to make sure everyone is on the same page going forward.
+Groups should make decisions about what a character can and can't do based on the fiction and precedent — as understood and agreed by all players and not just the GM. If unsure, make a ruling to keep things moving, but definitely revisit the topic during downtime to make sure everyone is on the same page going forward.
 
 ## Stress Costs
 
