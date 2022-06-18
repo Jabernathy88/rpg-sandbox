@@ -112,9 +112,9 @@ Groups should make decisions about what a character can and can't do based on th
 
 ## Optional: Resisting a Consequence
 
-To reduce the number of rolls during play, resisting a consequence is not always an option by default. But when it seems reasonable and follows the fiction, the GM may allow a Resistance roll from time to time. If unsure, err on the side of being generous.
+To reduce the number of rolls during play, resisting a consequence is not always a default option. If it flows from the fiction, however, the GM may allow Resistance rolls from time to time. If unsure, err on the side of being generous.
 
-Whenever you roll for Resistance, use the dice pool for the appropriate **Attribute** without adding any other bonus die. No matter what, you **always** succeed _(you resist some or all of a consequence, as established by the GM)_, and on:
+Whenever you roll for Resistance, use the dice pool for the appropriate raw **Attribute** without any other bonuses. No matter what, you **always** succeed _(you resist some or all of a consequence, as established by the GM)_, and on:
 
 * **1-3:** Mark 3 Stress.
 * **4-5:** Mark 1 Stress.
