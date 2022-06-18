@@ -6,19 +6,19 @@ An urban fantasy noir. For personal use, not for wide publication.
 
 __Character Name:__
 
-_______________________________,
+__ __Melinda Murakami__ _____,
 
-Pronouns: __________?
+__Pronouns:__ __ she/her __
 
 __Stress:__ 
 
-0 / 6
+6 / 6
 
 __Conditions:__
 
 0 / 2
 
-_(The 1st condition reduces your dice pool by 1. The 2nd condition turns off your powers, preventing any benefits from your Mythos Theme. If you would mark a third condition, your character is taken out.)_
+_(Marking the 1st condition reduces your dice pool by 1. The 2nd condition turns off your powers, preventing any benefits from your Mythos Theme. If you would mark a third condition, you are taken out.)_
 
 __Armor:__
 
@@ -30,7 +30,7 @@ __Armor:__
 * Prowess: 0
 * Resolve: 0
 
-_(Distribute 4 dice points above. Max 3 dice in any single Attribute. For example, your distribution could be 2-1-1 or 3-1-0 in any order. If your pool is 0 or less, simply roll 2d6 and keep the lowest one.)_
+_(Distribute 4 dice points above. Max 3 dice in any single Attribute. For example, your distribution could be 2-1-1 or 3-1-0 in any order. If your dice pool is 0 or less, simply roll 2d6 and keep the lowest.)_
 
 ### Mythos Theme: 
 
@@ -40,7 +40,7 @@ _______________________________. _(example: Amaterasu, Goddess of the Sun)_
 
 _______________________________. _(example: Motorcycle Mechanic)_
 
-_(For any Risky action, you may invoke either your Mythos or Logos, but never both. If so, add **1 extra die** to your pool.)_
+_(For any Risky action, you may invoke **either** your Mythos or Logos, but never both. If so, add **1 extra die** to your pool.)_
 
 __Mystery:__
 
@@ -54,7 +54,7 @@ _____________________. _(could be a traditional vice or something more altruisti
 
 ### Power Tags
 
-_(Examples: "Auto Maintenance," "Locksmithing," "Weather Control," "Searing Light," etc.)_
+_(Examples: "Auto Maintenance," "Locksmithing," "Weather Control," "Searing Light")_
 
 1. _____________________: M / L?
 
