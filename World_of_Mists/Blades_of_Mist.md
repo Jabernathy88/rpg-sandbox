@@ -6,9 +6,9 @@ An urban fantasy noir. For personal use, not for wide publication.
 
 __Character Name:__
 
-__ __Melinda Murakami__ _____,
+___________________________,
 
-__Pronouns:__ __ she/her __
+__Pronouns:__ ________.
 
 __Stress:__ 
 
