@@ -114,21 +114,21 @@ If your Power Tags change during this process, adjust your **Balance** ratings t
 
 If your Balance tips all the way toward **Mythos** and your Logos rating drops to 0, **you lose control of your character.** Their former identity is swept away by the living legend manifesting inside of them. _(The GM will help you create a new character to resume play.)_
 
-On the other hand, if your Balance completely shifts to **Logos** and your Mythos rating is 0, your character's mythic connection fades. **You lose your powers that you once held dear**. _(You may continue playing this character if you wish, but please discuss with GM to decide what's the happiesst, most practical option for moving forward.)_
+On the other hand, if your Balance completely shifts to **Logos** and your Mythos rating is 0, your character's mythic connection fades. **You lose your powers that you once held dear**. _(You may continue playing this character if you wish, but please discuss with the GM to decide what's the happiesst, most practical option for moving forward.)_
 
 ## Stress Costs
 
 * **1 Stress to push yourself.** Add **1 extra die** to your roll. _(Max 1 push per roll. Pushes must be declared before you roll.)_
 
-* **1 Stress to start a Flashback** where you may attempt 1 Risky action. The GM may charge 0 Stress for some small flashbacks if the desired fiction is minor or just for flavor. _(Any number of players may join in this flashback, but if they wish to lead or assist a roll, they must pay Stress as described below.)_
+* **1 Stress to start a Flashback** where you may attempt 1 Risky action. The GM may charge 0 Stress for a small flashback if the desired fiction is minor. _(Any number of players may join in this flashback, but if they wish to lead or assist any roll, they must pay Stress as described below.)_
 
-* **1 Stress to help another PC,** either in the present or in a Flashback initiated by any player. Whoever is leading the action rolls their pool, plus **1 extra die**. _(Max 1 assist per roll, although the GM may allow exceptions based on the fiction.)_
+* **1 Stress to help another PC,** either in the present or inside a Flashback. Whoever is leading the action rolls their pool, plus **1 extra die**. _(Max 1 assist per roll, although the GM may allow exceptions based on the fiction.)_
 
 ## Optional: Resisting a Consequence
 
-To reduce the number of rolls during play, resisting a consequence is not always a default option. If it flows from the fiction, however, the GM may allow Resistance rolls from time to time. If unsure, err on the side of being generous.
+To reduce the number of rolls during play, resisting a consequence is not always a default option. If it flows from the fiction, however, the GM may allow Resistance rolls from time to time. If unsure, it's often best to be generous.
 
-**When you roll for Resistance,** use the dice pool for the appropriate raw **Attribute** without any other bonuses. No matter what, you **always** succeed _(you resist some or all of a consequence, as established by the GM)_. And on:
+**When you roll for Resistance,** use the dice pool for the appropriate raw **Attribute** without any other bonuses. No matter what, you **always** succeed _(you resist some or all of a consequence, as established by the GM)_, and:
 
 * **1-3:** Mark 3 Stress.
 * **4-5:** Mark 1 Stress.
@@ -139,21 +139,21 @@ To reduce the number of rolls during play, resisting a consequence is not always
 
 If your character takes a **2-3 days off** to relax without working a case, you automatically refresh **1 stress** for free. After that, there is no other mechanical benefit for taking a vacation. :-)
 
-**When you Seek Refuge** to relieve stress in a more active way, you always roll **2d6**. For simplicity, this roll does not involve Attributes or any other bonuses. No matter what, your Refuge **always** refreshes your stress pool completely. And on:
+**When you Seek Refuge** to relieve stress in a more active way, you always roll **2d6**. For simplicity, this roll does not involve Attributes or any other bonuses. No matter what, your Refuge **always** refreshes your stress pool completely, and:
 
-* **1-3:** You Overindulge. GM picks the consequence.
-* **4-5:** You Overindulge. You pick the consequence. Describe the details: How does the balance between your Mythos and Logos begin to crack or fade?
+* **1-3:** Overindulge. GM picks the consequence.
+* **4-5:** Overindulge. You pick the consequence. Describe the details: How does the balance between your Mythos and Logos begin to crack or fade?
 * **6:** No consequence.
-* **Crit:** The Crew also gains a new ally or earns extra income. GM's choice, but you describe the details.
+* **Crit:** The Crew gains a new ally or earns extra income. GM's choice, but you describe the details.
 
 **When you Overindulge,** pick one:
 
 * You attract unwanted attention from the authorities or some other faction. The GM might represent this as heat or by using a clock.
 * Your character disappears for a month. Discuss with the GM what happened during this leave of absence.
-* Add 3 XP to either Mythos or Logos, GM's choice. If you trigger foreground growth, describe a dramatic change that happens to your character at the most inconvenient time.
 * You are cut off from your source of Refuge, and at least one of the Crew's allies now regards you unfavorably. This applies only to you and not the group as a whole. It will take effort to reestablish or change your source of Refuge.
-* You rack up enormous debt that someone powerful wants to collect, and money won't be enough. You have to do something you won't like. The GM starts a new 8 piece clock.
+* You rack up enormous debt that someone powerful wants to collect, and money won't be enough. You have to do something you won't like. The GM starts a new 8-piece clock.
 * Someone important to the Crew gets hurt. They lose their home, go to the hospital (or jail), become enchanted with magical slumber, etc. The incident should delay progress on a current case or downtime project.
+* Add 3 XP to either Mythos or Logos, GM's choice. If you trigger foreground growth, describe a dramatic change that happens to your character at the most inconvenient time.
 
 ## Investigating
 
