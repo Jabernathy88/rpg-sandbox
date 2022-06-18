@@ -104,11 +104,11 @@ Groups should make decisions about what a character can and can't do based on th
 
 ## Stress Costs
 
-* **1 Stress to push yourself.** Add 1 extra die to your roll. _(Max 1 push per roll. Pushes must be declared before you roll.)_
+* **1 Stress to push yourself.** Add **+1** extra die to your roll. _(Max 1 push per roll. Pushes must be declared before you roll.)_
 
 * **1 Stress to start a Flashback** where you may attempt 1 Risky action. The GM may charge 0 for some small flashbacks if the desired fiction is minor or simply to add flavor. _(Any number of players may join in this flashback, but if they wish to lead or assist a roll, they must pay Stress as described below.)_
 
-* **1 Stress to help another PC,** either in the present or in a Flashback initiated by any player. Whoever is leading the action rolls their pool + 1 extra die. _(Max 1 assist per roll, although the GM may allow exceptions based on the fiction.)_
+* **1 Stress to help another PC,** either in the present or in a Flashback initiated by any player. Whoever is leading the action rolls their pool **+1** extra die. _(Max 1 assist per roll, although the GM may allow exceptions based on the fiction.)_
 
 ## Optional: Resisting a Consequence
 
