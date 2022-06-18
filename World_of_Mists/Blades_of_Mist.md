@@ -16,9 +16,9 @@ __Stress:__
 
 __Conditions:__
 
-0 / 2 
+0 / 2
 
-_(The first condition reduces your effect. The second reduces your dice pool by 1. If you would mark a third condition, your character is taken out.)_
+_(The 1st condition reduces your dice pool by 1. The 2nd condition turns off your powers, preventing any benefits from your Mythos Theme. If you would mark a third condition, your character is taken out.)_
 
 __Armor:__
 
@@ -26,11 +26,11 @@ __Armor:__
 
 ### Attributes
 
-* Prowess: 0
 * Insight: 0
+* Prowess: 0
 * Resolve: 0
 
-_(Distribute 4 dice points above. Max 3d in any attribute. If your pool is 0, roll 2d and keep the lowest die.)_
+_(Distribute 4 dice points above. Max 3 dice in any single Attribute. For example, your distribution could be 2-1-1 or 3-1-0 in any order. If your pool is 0 or less, simply roll 2d6 and keep the lowest one.)_
 
 ### Mythos Theme: 
 
@@ -39,7 +39,6 @@ _______________________________. _(example: Amaterasu, Goddess of the Sun)_
 ### Logos Theme: 
 
 _______________________________. _(example: Motorcycle Mechanic)_
-
 
 _(For any Risky action, you may invoke either your Mythos or Logos, but never both. If so, add **1 extra die** to your pool.)_
 
@@ -114,7 +113,7 @@ If your Power Tags change during this process, adjust your **Balance** ratings t
 
 If your Balance tips all the way toward **Mythos** and your Logos rating drops to 0, **you lose control of your character.** Their former identity is swept away by the living legend manifesting inside of them. _(The GM will help you create a new character to resume play.)_
 
-On the other hand, if your Balance completely shifts to **Logos** and your Mythos rating is 0, your character's mythic connection fades. **You lose your powers that you once held dear**. _(You may continue playing this character if you wish, but please discuss with the GM to decide what's the happiesst, most practical option for moving forward.)_
+On the other hand, if your Balance completely shifts to **Logos** and your Mythos rating is 0, your character's mythic connection fades. **You lose your powers that you once held dear**. _(You may continue playing this character if you wish, but please discuss with the GM to decide the happiest, most practical option for moving forward.)_
 
 ## Stress Costs
 
