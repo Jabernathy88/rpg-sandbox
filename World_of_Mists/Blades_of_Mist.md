@@ -77,7 +77,6 @@ _(Balance ratings always add up to 4, matching the choices for Power Tags above.
 ### Experience
 
 * Mythos XP: 0
-
 * Logos XP: 0
 
 _(Max is **6 XP** for either side. See rules below for XP and Foreground Growth.)_
