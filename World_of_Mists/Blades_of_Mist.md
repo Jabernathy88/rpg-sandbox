@@ -95,13 +95,13 @@ __Notes__
 * _____________________ , _____________________ .
 * _____________________ , _____________________ .
 
-## Invoking Mythos or Logos
+## Mythos and Logos in Action
 
 For any Risky action, you may invoke **either** your Mythos or Logos, but never both. If so, add **1 extra die** to your pool. 
 
-Outside of dice rolls, your two Themes also grant narrative permissions on a case by case basis. For example, consider a character with the Mythos Theme of "Amaterasu, Goddess of the Sun." She might be able to easily produce a flashlight effect with a snap of her fingers, with no roll required. 
+Outside of dice rolls, your two Themes also grant narrative permissions on a case by case basis. For example, consider a character with the Mythos Theme of "Amaterasu, Goddess of the Sun." She might easily be able to produce a flashlight-style effect with a snap of her fingers -- no roll required. 
 
-Groups should make decisions about what a character can and can't do based on the fiction -- as understood and agreed by all players and not just the GM. If unsure, make a ruling to keep things moving, but be sure to revisit the topic during downtime to make sure everyone is on the same page going forward.
+Groups should make decisions about what a character can and can't do based on the fiction and established precedent -- as understood and agreed by all players and not just the GM. If unsure, make a ruling to keep things moving, but definitely revisit the topic during downtime to make sure everyone is on the same page going forward.
 
 ## Stress Costs
 
