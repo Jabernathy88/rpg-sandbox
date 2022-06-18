@@ -12,7 +12,7 @@ __Pronouns:__ ________.
 
 __Stress:__ 
 
-6 / 6
+0 / 6
 
 __Conditions:__
 
