@@ -125,7 +125,7 @@ To reduce the number of rolls during play, resisting a consequence is not always
 
 If your character takes a **2-3 days off** to relax without working a case, you automatically refresh **1 stress** for free. After that, there is no other mechanical benefit for taking a vacation. :-)
 
-If you choose to Seek Refuge in a more active way, you always roll **2d6**. For simplicity, this roll does not involve Attributes or any other bonuses. No matter whatt, Seeking Refuge **always** refreshes your stress pool completely. And on:
+**When you Seek Refuge** to relieve stress in a more active way, you always roll **2d6**. For simplicity, this roll does not involve Attributes or any other bonuses. No matter whatt, Seeking Refuge **always** refreshes your stress pool completely. And on:
 
 * **1-3:** You Overindulge. GM picks the consequence.
 * **4-5:** You Overindulge. You pick the consequence. Describe the details: How does the balance between your Mythos and Logos begin to crack or fade?
