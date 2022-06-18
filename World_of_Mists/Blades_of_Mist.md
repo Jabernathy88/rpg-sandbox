@@ -114,7 +114,7 @@ Groups should make decisions about what a character can and can't do based on th
 
 To reduce the number of rolls during play, resisting a consequence is not always a default option. If it flows from the fiction, however, the GM may allow Resistance rolls from time to time. If unsure, err on the side of being generous.
 
-Whenever you roll for Resistance, use the dice pool for the appropriate raw **Attribute** without any other bonuses. No matter what, you **always** succeed _(you resist some or all of a consequence, as established by the GM)_, and on:
+**When you roll for Resistance,** use the dice pool for the appropriate raw **Attribute** without any other bonuses. No matter what, you **always** succeed _(you resist some or all of a consequence, as established by the GM)_. And on:
 
 * **1-3:** Mark 3 Stress.
 * **4-5:** Mark 1 Stress.
@@ -125,7 +125,7 @@ Whenever you roll for Resistance, use the dice pool for the appropriate raw **At
 
 If your character takes a **2-3 days off** to relax without working a case, you automatically refresh **1 stress** for free. After that, there is no other mechanical benefit for taking a vacation. :-)
 
-If you choose to Seek Refuge in a more active way, you always roll **2d6**. For simplicity, this roll does not involve Attributes or any other bonuses. No matter whatt, Seeking Refuge **always** refreshes your stress pool completely, and on:
+If you choose to Seek Refuge in a more active way, you always roll **2d6**. For simplicity, this roll does not involve Attributes or any other bonuses. No matter whatt, Seeking Refuge **always** refreshes your stress pool completely. And on:
 
 * **1-3:** Overindulge. GM picks the consequence.
 * **4-5:** Overindulge. You pick the consequence. Describe the details: How does the balance between your Mythos and Logos begin to crack or fade?
