@@ -40,9 +40,14 @@ _______________________________. _(example: Amaterasu, Goddess of the Sun)_
 
 _______________________________. _(example: Motorcycle Mechanic)_
 
-__Mystery:__ 
 
-_____________________? _(worded as question that you continually seek to answer, inspired by your Mythos)_
+_(For any Risky action, you may invoke either your Mythos or Logos, but never both. If so, add **1 extra die** to your pool.)_
+
+__Mystery:__
+
+_______________________________? 
+
+ _(Worded as question that you continually seek to answer, inspired by your Mythos)_
 
 __Refuge:__
 
@@ -50,7 +55,7 @@ _____________________. _(could be a traditional vice or something more altruisti
 
 ### Power Tags
 
-_(examples: "Auto Maintenance," "Locksmithing," "Weather Control," "Searing Light," etc. Powerful artifacts known as Relics should occupy the same slots as Power Tags.)_
+_(Examples: "Auto Maintenance," "Locksmithing," "Weather Control," "Searing Light," etc.)_
 
 1. _____________________: M / L?
 
@@ -60,22 +65,22 @@ _(examples: "Auto Maintenance," "Locksmithing," "Weather Control," "Searing Ligh
 
 4. _____________________: M / L?
 
-_(For each above, label "M" for Mythos or "L" for Logos. At character creation, you must have at least **1 tag** representing both sides. These Power Tags simply serve to describe and clarfy the themes of your Mythos and Logos. For any Risky action, you may invoke either your Mythos or Logos, but never both. If so, add **1 extra die** to your pool.)_
+_(For each above, label "M" for Mythos or "L" for Logos. At character creation, you must have at least **1 tag** representing both sides. Power Tags have no mechanical benefit other than describing the themes of your Mythos and Logos, and tracking the Balance between them. Powerful artifacts known as Relics are treated the same as Power Tags.)_
 
 ### Balance 
 
-_(always adds up to 4, matches choices above)_ 
+_(Balance ratings always add up to 4, matching the choices for Power Tags above.)_ 
 
 * Mythos: 2
 * Logos: 2
 
 ### Experience
 
-* Mythos XP: 0 / 6
+* Mythos XP: 0
 
-* Logos XP: 0 / 6
+* Logos XP: 0
 
-_(See rules below for XP and Foreground Growth.)_
+_(Max is **6 XP** for either side. See rules below for XP and Foreground Growth.)_
 
 ### Misc.
 
