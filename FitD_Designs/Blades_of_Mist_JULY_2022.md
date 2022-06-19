@@ -151,49 +151,57 @@ If your character takes a **2-3 days off** to relax without working a case, you 
 
 **When you Overindulge,** pick one, or roll to randomize if you prefer:
 
-  **1.** You attract unwanted attention from the authorities or some other faction. The GM might represent this as abstract "heat" or by using a clock.
-  **2.** Your character disappears for a month. Discuss with the GM what happened during this leave of absence.
-  **3.** You are cut off from your source of Refuge, and at least one of the Crew's allies now regards you unfavorably. This applies only to you and not the group as a whole. It will take effort to reestablish or change your source of Refuge.
-  **4.** You rack up enormous debt that someone powerful wants to collect, and money won't be enough. You have to do something you won't like. The GM starts a new 8-piece clock.
-  **5.** Someone important to the Crew gets hurt. They lose their home, go to the hospital (or jail), become enchanted with magical slumber, etc. The incident should delay progress on a current case or downtime project.
-  **6.** Add 3 XP to either Mythos or Logos, GM's choice. If you trigger foreground growth, describe a dramatic change that happens to your character at the most inconvenient time.
+**1.** You attract unwanted attention from the authorities or some other faction. The GM might represent this as abstract "heat" or by using a clock.
+**2.** Your character disappears for a month. Discuss with the GM what happened during this leave of absence.
+**3.** You are cut off from your source of Refuge, and at least one of the Crew's allies now regards you unfavorably. This applies only to you and not the group as a whole. It will take effort to reestablish or change your source of Refuge.
+**4.** You rack up enormous debt that someone powerful wants to collect, and money won't be enough. You have to do something you won't like. The GM starts a new 8-piece clock.
+**5.** Someone important to the Crew gets hurt. They lose their home, go to the hospital (or jail), become enchanted with magical slumber, etc. The incident should delay progress on a current case or downtime project.
+**6.** Add 3 XP to either Mythos or Logos, GM's choice. If you trigger foreground growth, describe a dramatic change that happens to your character at the most inconvenient time.
 
 ## Investigating
 
-You may initiate an Investation roll explicitly, or the GM may rule that a player triggers it "automatically" — simply by exploring or asking questions about the world.
+-------- Some terminology: -------------------
+
+* What is **contiguous** information?
+
+* What is truth with **illuminating context**?
+
+* How is truth distinct from **opinions** and **rumors**?
+
+And also ... how does the Mist fit into all of this...?
+
+----------------------------------------------------------------------------
 
 ### Controlled, aka Just a Routine Search
+
+When the stakes are relatively safe, you may initiate an Investation roll explicitly, or the GM may rule that a player "triggers" it automatically — simply by exploring or asking questions about the world.
 
 **When you Investigate your surroundings in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an **optional +1** modifier based on your character's background or any favorable context. No matter what, you **always** learn something new:
 
 * **1-5:** Contiguous truth.
 * **6:** Truth, with illuminating context.
 
-After this initial roll, let the GM know if you want to push for more information. They may offer more details, without another roll, in exchange for **1 Stress** or **1 Clue Token** _(see below for details)_. 
+After this initial roll, let the GM know if you want to push for more information. They may offer more details, without another roll, in exchange for **1 Stress** or 1 Clue Token _(optional: see below for details)_.
 
-Or, if they can think of an **interesting consequence** for your character spending the extra time, the GM may ask you to make an investigation roll in a **Risky** position. Otherwise, the spotlight should go to another player who may search for similar information if they describe a different approach.
+Or, if they can think of an **interesting consequence** for your character spending the extra time, the GM may ask you to make an investigation roll in a **Risky** position. Otherwise, the spotlight should go to another player who may search for similar information if they describe a new alternate approach.
 
 _(Author's note: When I run games like this, I usually make this roll in the open. In the past, I've called it a "passive knowledge check," but the name isn't important. Sometimes it feels easier to ask a player to roll, and sometimes I do it myself. Sometimes I declare a small modifier out loud, but usually I just 'guestimate' the degree of success silently in the moment._
 
-_Due to the nature of a mystery-style adventures, however, I do respect the use of secret rolls. I have used them myself from time to time. I usually don't care for bluffing with dice — that is, making a secret roll mainly to increase tension — but I think it's fine as long as you keep things moving, swiftly and smoothly. One of my design goals for including a Controlled variant, here, is to accomodate the occasional bluff for groups who enjoy that style.)_
+_Due to the nature of a mystery-style adventures, however, I do respect the use of secret rolls. I have used them myself from time to time. I usually don't care for bluffing with dice — that is, making a secret roll mainly to increase tension — but I think it's fine as long as you keep things moving swiftly and smoothly. One of my design goals for including a Controlled variant, here, is to accomodate the occasional bluff for groups who enjoy that style.)_
 
-**When you investigate your surroundings in a Risky position**, including risks or dangers that might surprise your character, roll your dice pool as normal. **Insight** is the default Attribute, although the GM may allow exceptions based on how you describe your approach. You may spend Stress to push yourself or invoke your Mythos Theme or Logos Theme _(but not both)_ as with any other Risky action. No matter what, you always learn something new:
+### Risky, aka Investigating Under Pressure
 
-* **1-3**: Contiguous truth, with consequences. 
+When there are stakes involved, you may invoke your Mythos Theme or Logos Theme _(but not both)_ and spend Stress to push yourself as with any other Risky action.
+
+**When you Investigate your surroundings in a Risky position**, including risks or dangers that might surprise your character, roll your dice pool as normal. **Insight** is the default Attribute for investigation _(although the GM may allow exceptions based on how you describe your approach)_. No matter what, you **always** learn something new:
+
+* **1-3**: Contiguous truth, with consequences.
 * **4-5:** Contiguous truth.
 * **6:** Truth, with illuminating context.
-* **Crit:** Pierce the Mist. Player picks. If the GM isn't prepared to answer your question fully, they may give you a Clue token instead.
+* **Crit:** Pierce the Mist. You succeed as above, but also get a glimpse of the past or a possible future. The GM can describe this extra knowledge as a psychedelic vision from beyond, or whatever seems fun and flavorful in the moment.
 
-**When you Pierce the Mist,** your character learns all clues hidden in the current scene. Pick one of the following questions, or roll to randomize if you prefer. Before the GM answers, you or another player must tell them at least **1 theory**. , or roll to randomize if you prefer
+_(Author's note: The traditional 3 positions of Forged in the Dark (controlled, risky, and despereate) are **not** a formal part of these rules. They appear here only as naming conventions to help orient readers, so the terms have no mechanical weight beyond that.)_
 
---- PUT A BOOKMARK IN THIS. MAYBE I PREFER THE FORMAT IN CTHULHU DARK...... ---
-
-* What is the current whereabouts of [name any person]...? 
-* Who is the mastermind behind [name any wrongdoing]...?
-* Who deserves the most credit for [name any good deed with mysterious origin]...?
-
---- PUT A BOOKMARK IN THIS. MAYBE I PREFER THE FORMAT IN CTHULHU DARK....... ---
-
-## Using Clue Tokens
+### Optional: Clue Tokens
 
 ...
