@@ -162,4 +162,28 @@ If your character takes a **2-3 days off** to relax without working a case, you 
 
 More, to be written.
 
+**When you investigate in a Controlled position,** the **GM rolls 1d6** for you, with an **optional +1** modifier based on your fictional framing:
+
+* 1-5: Contiguous truth.
+* 6: Truth, with illuminating context.
+
+**When you investigate in a Risky position** (including dangers that might surprise your character), **roll Insight**. You always learn true facts:
+
+* 1-3: Contiguous truth, with consequences. 
+* 4-5: Contiguous truth.
+* 6: Truth, with illuminating context.
+* Crit: Pierce the Mist. Player picks. If the GM isn't prepared to answer fully, they may give you a Clue token instead.
+
+**When you Pierce the Mist,** your character learns all clues hidden in the current scene. Pick one of the following questions. Before the GM answers, you must tell them at least 1 theory. 
+
+--- PUT A BOOKMARK IN THIS. MAYBE I PREFER THE FORMAT IN CTHULHU DARK...... ---
+
+* What is the current whereabouts of [name any person]...? 
+* Who is the mastermind behind [name any wrongdoing]...?
+* Who deserves the most credit for [name any good deed with mysterious origin]...?
+
+--- PUT A BOOKMARK IN THIS. MAYBE I PREFER THE FORMAT IN CTHULHU DARK....... ---
+
+## Using Clue Tokens
+
 ...
