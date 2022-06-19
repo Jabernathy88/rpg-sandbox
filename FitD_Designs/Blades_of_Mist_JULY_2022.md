@@ -127,7 +127,7 @@ On the other hand, if your Balance completely shifts to **Logos** and your Mytho
 
 * **1 Stress to help another PC,** either in the present or inside a Flashback. Whoever is leading the action rolls their pool, plus **1 extra die**. _(Max 1 assist per roll, although the GM may allow exceptions based on the fiction.)_
 
-## Optional: Resisting a Consequence
+### Optional: Resisting a Consequence
 
 To reduce the number of rolls during play, resisting a consequence is not always a default option. If it flows from the fiction, however, the GM may allow Resistance rolls from time to time. If unsure, it's often best to be generous.
 
@@ -149,32 +149,42 @@ If your character takes a **2-3 days off** to relax without working a case, you 
 * **6:** No consequence.
 * **Crit:** The Crew gains a new ally or earns extra income. GM's choice, but you describe the details.
 
-**When you Overindulge,** pick one:
+**When you Overindulge,** pick one, or roll to randomize if you prefer:
 
-* You attract unwanted attention from the authorities or some other faction. The GM might represent this as heat or by using a clock.
-* Your character disappears for a month. Discuss with the GM what happened during this leave of absence.
-* You are cut off from your source of Refuge, and at least one of the Crew's allies now regards you unfavorably. This applies only to you and not the group as a whole. It will take effort to reestablish or change your source of Refuge.
-* You rack up enormous debt that someone powerful wants to collect, and money won't be enough. You have to do something you won't like. The GM starts a new 8-piece clock.
-* Someone important to the Crew gets hurt. They lose their home, go to the hospital (or jail), become enchanted with magical slumber, etc. The incident should delay progress on a current case or downtime project.
-* Add 3 XP to either Mythos or Logos, GM's choice. If you trigger foreground growth, describe a dramatic change that happens to your character at the most inconvenient time.
+  **1.** You attract unwanted attention from the authorities or some other faction. The GM might represent this as abstract "heat" or by using a clock.
+  **2.** Your character disappears for a month. Discuss with the GM what happened during this leave of absence.
+  **3.** You are cut off from your source of Refuge, and at least one of the Crew's allies now regards you unfavorably. This applies only to you and not the group as a whole. It will take effort to reestablish or change your source of Refuge.
+  **4.** You rack up enormous debt that someone powerful wants to collect, and money won't be enough. You have to do something you won't like. The GM starts a new 8-piece clock.
+  **5.** Someone important to the Crew gets hurt. They lose their home, go to the hospital (or jail), become enchanted with magical slumber, etc. The incident should delay progress on a current case or downtime project.
+  **6.** Add 3 XP to either Mythos or Logos, GM's choice. If you trigger foreground growth, describe a dramatic change that happens to your character at the most inconvenient time.
 
 ## Investigating
 
-More, to be written.
+You may initiate an Investation roll explicitly, or the GM may rule that a player triggers it "automatically" — simply by exploring or asking questions about the world.
 
-**When you investigate in a Controlled position,** the **GM rolls 1d6** for you, with an **optional +1** modifier based on your fictional framing:
+### Controlled, aka Just a Routine Search
 
-* 1-5: Contiguous truth.
-* 6: Truth, with illuminating context.
+**When you Investigate your surroundings in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an **optional +1** modifier based on your character's background or any favorable context. No matter what, you **always** learn something new:
 
-**When you investigate in a Risky position** (including dangers that might surprise your character), **roll Insight**. You always learn true facts:
+* **1-5:** Contiguous truth.
+* **6:** Truth, with illuminating context.
 
-* 1-3: Contiguous truth, with consequences. 
-* 4-5: Contiguous truth.
-* 6: Truth, with illuminating context.
-* Crit: Pierce the Mist. Player picks. If the GM isn't prepared to answer fully, they may give you a Clue token instead.
+After this initial roll, let the GM know if you want to push for more information. They may offer more details, without another roll, in exchange for **1 Stress** or **1 Clue Token** _(see below for details)_. 
 
-**When you Pierce the Mist,** your character learns all clues hidden in the current scene. Pick one of the following questions. Before the GM answers, you must tell them at least 1 theory. 
+Or, if they can think of an **interesting consequence** for your character spending the extra time, the GM may ask you to make an investigation roll in a **Risky** position. Otherwise, the spotlight should go to another player who may search for similar information if they describe a different approach.
+
+_(Author's note: When I run games like this, I usually make this roll in the open. In the past, I've called it a "passive knowledge check," but the name isn't important. Sometimes it feels easier to ask a player to roll, and sometimes I do it myself. Sometimes I declare a small modifier out loud, but usually I just 'guestimate' the degree of success silently in the moment._
+
+_Due to the nature of a mystery-style adventures, however, I do respect the use of secret rolls. I have used them myself from time to time. I usually don't care for bluffing with dice — that is, making a secret roll mainly to increase tension — but I think it's fine as long as you keep things moving, swiftly and smoothly. One of my design goals for including a Controlled variant, here, is to accomodate the occasional bluff for groups who enjoy that style.)_
+
+**When you investigate your surroundings in a Risky position**, including risks or dangers that might surprise your character, roll your dice pool as normal. **Insight** is the default Attribute, although the GM may allow exceptions based on how you describe your approach. You may spend Stress to push yourself or invoke your Mythos Theme or Logos Theme _(but not both)_ as with any other Risky action. No matter what, you always learn something new:
+
+* **1-3**: Contiguous truth, with consequences. 
+* **4-5:** Contiguous truth.
+* **6:** Truth, with illuminating context.
+* **Crit:** Pierce the Mist. Player picks. If the GM isn't prepared to answer your question fully, they may give you a Clue token instead.
+
+**When you Pierce the Mist,** your character learns all clues hidden in the current scene. Pick one of the following questions, or roll to randomize if you prefer. Before the GM answers, you or another player must tell them at least **1 theory**. , or roll to randomize if you prefer
 
 --- PUT A BOOKMARK IN THIS. MAYBE I PREFER THE FORMAT IN CTHULHU DARK...... ---
 
