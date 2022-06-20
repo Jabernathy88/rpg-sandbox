@@ -165,33 +165,21 @@ If your character takes a **2-3 days off** to relax without working a case, you 
 
 ## Investigating
 
-### Definitions
-
-First, some terminology:
-
-* What is **contiguous** information?
-
-Yada yada ...
-
-* What is truth with **illuminating context**?
-
-Yada yada ...
-
-* How is truth distinct from **opinions** and **rumors**?
-
-Yada yada ...Yada yada ...
-
-And also ... how does the Mist fit into all of this...?
+When the stakes are relatively safe, you may initiate an Investation roll explicitly, or the GM may rule that a player "triggers" it automatically — simply by exploring or asking questions about the world.
 
 ### Controlled, aka Just a Routine Search
 
-When the stakes are relatively safe, you may initiate an Investation roll explicitly, or the GM may rule that a player "triggers" it automatically — simply by exploring or asking questions about the world.
+**When you Investigate your surroundings in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an optional **1 extra die** based on your character's background or any favorable context. This roll may be made in secret, but the default is out in the open. No matter what, you **always** learn something new:
 
-**When you Investigate your surroundings in a Controlled position,** the GM makes a Fortune Roll. They may include an **optional 1 bonus die** based on your character's background or any favorable context. No matter what, you **always** learn something new:
-
-* **1-3:** Surface details. _(You learn **everything** hidden wherever your character is actively investigating now.)_
-* **4-5:** Surface details, **and** you get a hint about where to look next.
+* **1-3:** Surface details.
+* **4-5:** Surface details.
 * **6:** **More truth**, with illuminating context.
+
+Surface details include learning **everything** that might be hidden in the general area where your character is investigating. Consider the following scene in a fancy CEO's office, for example:
+
+  * _The GM knows that an envelope is taped to the underside of the CEO's computer desk. A character searching through files inside of the desk should always find that envelope. This player succeeds in finding the important clue even on a roll of 1 and even though the player never specified looking underneath the desk._
+  
+  _In the same office, perhaps a different character decided to search the bookshelf on the other side of the room, first. On 1-3, this investigator would not find the envelope and would instead learn some short details about the books they find. On a 4-5, however, the GM would give a hint about checking the desk. On a 6, the GM might throw in a sticky note with the computer password, depending on how quickly they want the investigation to proceed._
 
 After this initial roll, let the GM know if you want to push for more information. They may offer more details, without another roll, in exchange for **1 Stress**. By default, spending Stress is the preferred method of obtaining core clues _(the really big "aha" moments that drive the story forward)_ while avoiding additional rolls.
 
@@ -207,19 +195,38 @@ When there are stakes involved, you may invoke your Mythos Theme or Logos Theme 
 
 **When you Investigate your surroundings in a Risky position**, including risks or dangers that might surprise your character, roll your dice pool as normal. **Insight** is the default Attribute for investigation _(although the GM may allow exceptions based on how you describe your approach)_. No matter what, you **always** learn something new:
 
-* **1-3**: Contiguous truth, with consequences.
-* **4-5:** Contiguous truth.
+* **1-3**: Surface details, with **consequences**.
+* **4-5:** Surface details. **No** consequences, **and** you get a hint about where to look next.
 * **6:** **More truth**, with illuminating context.
-* **Crit:** Pierce the Mist. You succeed as above, but also get a glimpse of the past or a possible future. The GM can describe this extra knowledge as a psychedelic vision from beyond, or whatever seems fun and flavorful in the moment.
+* **Crit:** Pierce the Mist. You succeed as above, but also get an extra glimpse of the past or a possible future. The GM can describe this extra knowledge as a psychedelic vision from beyond, or whatever seems fun and flavorful in the moment.
 
 _(Author's note: The traditional 3 positions of Forged in the Dark (Controlled, Risky, and Desperate) are ***not** a formal part of these rules. They appear here only as naming conventions to help orient readers, so the terms have no mechanical weight beyond that.)_
 
-### Interviewing Witnesses and Suspects
+## Interviewing Witnesses and Suspects
 
 There is no mechanical distinction between a witness and suspect. In the words of Gregory House M.D., "Everyone lies."
 
-**When you Interview a witness or suspect in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an **optional +1** modifier based on the wording of your interview approach or any favorable context. No matter what, you **always** learn something new:
+### Controlled, aka Just the Facts Ma'am
 
-* **1-3:** Rumors and opinions. _(See general Definitions above.)_
-* **4-5:** Rumors and opinions, **and** you learn if the NPC is hiding something important.
-* **6:** Truth, with illuminating context. The GM decides if the NPC is aware they've "given away" a clue, or if they care.
+**When you Investigate by interviewing an NPC in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an **optional +1** modifier based on the wording of your interview approach or any favorable context. This roll may be made in secret, but the default is out in the open. No matter what, you **always** learn something new:
+
+* **1-3:** Rumors and opinions, mixed with lies.
+* **4-5:** Rumors and opinions, **and** you learn if the NPC is concealing something important.
+* **6:** Truth, with illuminating context. 
+
+If the result is a strong success, the GM should decide if the NPC is aware that they've "given away" a clue. And, if so, do they care? If the answer is yes, then the GM should dial up the pressure immediately. 
+
+### Risky, aka Difficult Conversations
+
+As with other Risky actions, when there are stakes involved, you may invoke your Mythos Theme or Logos Theme _(but not both)_ and spend Stress to push yourself as with any other Risky action.
+
+**When you Investigate by interviewing an NPC in a Risky position**, including risks or dangers that might surprise your character, roll your dice pool as normal. **Resolve** is the default Attribute for investigating through social interaction. No matter what, you **always** learn something new:
+
+* **1-3:** Rumors, opinions, and lies, with **consequences**.
+* **4-5:** Rumors, opinions, and lies. No consequences **And** you learn if the NPC is still concealing something important.
+* **6:** Truth, with illuminating context. 
+* **Crit:** Pierce the Mist. You succeed as above, but also get an extra glimpse of the past or a possible future. The GM can describe this moment as a cinematic montage. Or perhaps the NPC has a dormant Mythos of their own that suddenly takes over and compels them to tell the truth.
+
+_(Author's note: In most of the games I run, I usually do **not** allow enhanced interrogation at my table. I would encourage GMs and players to talk through these scenes without resorting to torture._ 
+
+_Either way, pursuasion isn't quite the same activity as interviewing purely to gather information. The rules above represent the gleaning of clues through clever questioning or, perhaps, verbal trickery. Convincing someone to do something they won't like, like betraying their boss or a loved one, is better represented with a standard Risky roll. Even so, you still might not be able to pursuade the NPC without some kind of leverage, say, by offering them something they want in exchange.)_
