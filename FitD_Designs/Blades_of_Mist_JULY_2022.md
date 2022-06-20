@@ -231,7 +231,7 @@ _(Author's note: In most of the games I run, I usually do **not** allow enhanced
 
 _Either way, pursuasion isn't quite the same activity as interviewing purely to gather information. The rules above represent the gleaning of clues through clever questioning, body language, or, perhaps, verbal trickery._
 
-_Convincing someone to do something they won't like — such as betraying their boss or a loved one — is better handled as a standard Risky roll. You might not be able to pursuade them without some kind of leverage, perhaps by offering them something they want in exchange. By contrast, finding out what an NPC really wants **would** be an excellent use of these investigation rules.)_
+_Convincing someone to do something they won't like — such as betraying their boss or a loved one — is better handled as a standard Risky roll. You might not be able to pursuade them without some kind of leverage, perhaps by offering them something they want in exchange. By contrast, finding out what an NPC really wants **would** be an excellent use of these rules.)_
 
 ## Almost done ...!
 
