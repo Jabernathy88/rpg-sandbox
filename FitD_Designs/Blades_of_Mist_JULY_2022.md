@@ -227,6 +227,12 @@ As with other Risky actions, when there are stakes involved, you may invoke your
 * **6:** Truth, with illuminating context. 
 * **Crit:** Pierce the Mist. You succeed as above, but also get an extra glimpse of the past or a possible future. The GM can describe this moment as a cinematic montage. Or perhaps the NPC has a dormant Mythos of their own that suddenly takes over and compels them to tell the truth.
 
-_(Author's note: In most of the games I run, I usually do **not** allow enhanced interrogation at my table. I would encourage GMs and players to talk through these scenes without resorting to torture._ 
+_(Author's note: In most of the games I run, I usually do **not** allow enhanced interrogation at my table. I would encourage GMs and players to talk through these scenes without resorting to torture._
 
-_Either way, pursuasion isn't quite the same activity as interviewing purely to gather information. The rules above represent the gleaning of clues through clever questioning or, perhaps, verbal trickery. Convincing someone to do something they won't like, like betraying their boss or a loved one, is better represented with a standard Risky roll. Even so, you still might not be able to pursuade the NPC without some kind of leverage, say, by offering them something they want in exchange.)_
+_Either way, pursuasion isn't quite the same activity as interviewing purely to gather information. The rules above represent the gleaning of clues through clever questioning, body language, or, perhaps, verbal trickery._
+
+_Convincing someone to do something they won't like — such as betraying their boss or a loved one — is better handled as a standard Risky roll. You might not be able to pursuade them without some kind of leverage, perhaps by offering them something they want in exchange. By contrast, finding out what an NPC really wants **would** be an excellent use of these investigation rules.)_
+
+## Almost done ...!
+
+— — — 
