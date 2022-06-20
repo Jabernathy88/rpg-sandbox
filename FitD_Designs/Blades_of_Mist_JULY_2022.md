@@ -165,9 +165,9 @@ If your character takes a **2-3 days off** to relax without working a case, you 
 
 ## Investigating
 
-### Terminology
+### Definitions
 
-First, some definitions:
+First, some terminology:
 
 * What is **contiguous** information?
 
@@ -187,10 +187,11 @@ And also ... how does the Mist fit into all of this...?
 
 When the stakes are relatively safe, you may initiate an Investation roll explicitly, or the GM may rule that a player "triggers" it automatically — simply by exploring or asking questions about the world.
 
-**When you Investigate your surroundings in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an **optional +1** modifier based on your character's background or any favorable context. No matter what, you **always** learn something new:
+**When you Investigate your surroundings in a Controlled position,** the GM makes a Fortune Roll. They may include an **optional 1 bonus die** based on your character's background or any favorable context. No matter what, you **always** learn something new:
 
-* **1-5:** Contiguous truth.
-* **6:** Truth, with illuminating context.
+* **1-3:** Surface details. _(You learn **everything** hidden wherever your character is actively investigating now.)_
+* **4-5:** Surface details, **and** you get a hint about where to look next.
+* **6:** **More truth**, with illuminating context.
 
 After this initial roll, let the GM know if you want to push for more information. They may offer more details, without another roll, in exchange for **1 Stress**. By default, spending Stress is the preferred method of obtaining core clues _(the really big "aha" moments that drive the story forward)_ while avoiding additional rolls.
 
@@ -208,7 +209,7 @@ When there are stakes involved, you may invoke your Mythos Theme or Logos Theme 
 
 * **1-3**: Contiguous truth, with consequences.
 * **4-5:** Contiguous truth.
-* **6:** Truth, with illuminating context.
+* **6:** **More truth**, with illuminating context.
 * **Crit:** Pierce the Mist. You succeed as above, but also get a glimpse of the past or a possible future. The GM can describe this extra knowledge as a psychedelic vision from beyond, or whatever seems fun and flavorful in the moment.
 
 _(Author's note: The traditional 3 positions of Forged in the Dark (Controlled, Risky, and Desperate) are ***not** a formal part of these rules. They appear here only as naming conventions to help orient readers, so the terms have no mechanical weight beyond that.)_
@@ -217,9 +218,8 @@ _(Author's note: The traditional 3 positions of Forged in the Dark (Controlled, 
 
 There is no mechanical distinction between a witness and suspect. In the words of Gregory House M.D., "Everyone lies."
 
-**When you Interview a witness or suspect in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an **optional +1** modifier based on your character's background or any favorable context. No matter what, you **always** learn something new:
+**When you Interview a witness or suspect in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an **optional +1** modifier based on the wording of your interview approach or any favorable context. No matter what, you **always** learn something new:
 
-* **1-5:** Rumors and opinions. (See general rules for  above.)
-* **6:** Truth, with illuminating context.
-
-
+* **1-3:** Rumors and opinions. _(See general Definitions above.)_
+* **4-5:** Rumors and opinions, **and** you learn if the NPC is hiding something important.
+* **6:** Truth, with illuminating context. The GM decides if the NPC is aware they've "given away" a clue, or if they care.
