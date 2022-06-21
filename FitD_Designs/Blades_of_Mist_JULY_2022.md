@@ -179,11 +179,9 @@ _(Author's note: The traditional Forged in the Dark mechanics of "position and e
 
 Surface details include learning **everything** that might be hidden in the general area where your character is searching. Consider the following scene in a fancy CEO's office, for example:
 
- >>> _The GM decides beforehand that a **secret envelope** is taped to the underside of the CEO's computer desk. A character looking through files inside of the desk should always find that envelope. This player succeeds **even on a roll of 1**, and even without specifying they meant to look underneath the desk._
- 
-  _Earlier in the same scene, perhaps a different character decided to search the bookshelf first, on the other side of the room. On **1-3**, this player would **not** learn about the secret envelope. Instead, they would learn some short details about the books, as well anything hidden in, or behind, the bookshelf._
-  
-  _On a **4-5**, however, this second investigator might get a hint about checking the desk. And on a **6**, the GM might throw in a sticky note with the computer password, as well._
+ > _The GM decides beforehand that a **secret envelope** is taped to the underside of the CEO's computer desk. A character looking through files inside of the desk should always find that envelope. This player succeeds **even on a roll of 1**, and even without specifying they meant to look underneath the desk._
+ _Earlier in the same scene, perhaps a different character decided to search the bookshelf first, on the other side of the room. On **1-3**, this player would **not** learn about the secret envelope. Instead, they would learn some short details about the books, as well anything hidden in, or behind, the bookshelf._
+ _On a **4-5**, however, this second investigator might get a hint about checking the desk. And on a **6**, the GM might throw in a sticky note with the computer password, as well._
 
 ### Pushing for Extra Clues
 
