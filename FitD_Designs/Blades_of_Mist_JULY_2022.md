@@ -167,7 +167,7 @@ If your character takes a **2-3 days off** to relax without working a case, you 
 
 You may initiate an Investigation roll explicitly, or the GM may rule that a player "triggers" it automatically — simply by exploring or asking questions about the world.
 
-_(Author's note: The traditional Forged in the Dark mechanics of "position and effect" are not a formal part of these rules. I've included some familiar terms only as naming conventions, without intending any extra mechanical weight beyond that. For example, I'm using "Controlled" simply to describe situations that are relatively safe for the PCs, while "Risky" implies an element of danger or running out of time.)_
+**Author's note:** The traditional Forged in the Dark mechanics of "position and effect" are not a formal part of these rules. I've included some familiar terms only as naming conventions, without intending any extra mechanical weight beyond that. For example, I'm using "Controlled" simply to describe situations that are relatively safe for the PCs, while "Risky" implies an element of danger or running out of time.
 
 ### Controlled, aka Just a Routine Search
 
@@ -185,9 +185,9 @@ Surface details include learning **everything** that might be hidden in the gene
 
  > On a **4-5**, however, this second investigator might get a hint about checking the desk. And on a **6**, the GM might throw in a sticky note with the computer password, as well.
 
-_(Author's note: When I run games like this, I usually make this roll in the open. In the past, I've called it a "passive knowledge check," but the name isn't important. Sometimes it feels easier to ask a player to roll, and sometimes I do it myself. Sometimes I declare a small modifier out loud, but usually I just 'guestimate' the degree of success silently in the moment._
+**Author's note:** When I run games like this, I usually make this roll in the open. In the past, I've called it a "passive knowledge check," but the name isn't important. Sometimes it feels easier to ask a player to roll, and sometimes I do it myself. Sometimes I declare a small modifier out loud, but usually I just 'guestimate' the degree of success silently in the moment._
 
-_Due to the nature of a mystery-style adventures, however, I do respect the use of secret rolls. I have used them myself from time to time. I usually don't care for bluffing with dice — that is, making a secret roll mainly to increase tension — but I think it's fine as long as you keep things moving swiftly and smoothly. One of my design goals for including a Controlled variant, here, is to accomodate the occasional bluff for groups who enjoy that style.)_
+Due to the nature of a mystery-style adventures, however, I do respect the use of secret rolls. I have used them myself from time to time. I usually don't care for bluffing with dice — that is, making a secret roll mainly to increase tension — but I think it's fine as long as you keep things moving swiftly and smoothly. One of my design goals for including a Controlled variant, here, is to accomodate the occasional bluff for groups who enjoy that style.
 
 ### Pushing for Extra Clues
 
