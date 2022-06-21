@@ -165,25 +165,31 @@ If your character takes a **2-3 days off** to relax without working a case, you 
 
 ## Investigating
 
-When the stakes are relatively safe, you may initiate an Investation roll explicitly, or the GM may rule that a player "triggers" it automatically — simply by exploring or asking questions about the world.
+You may initiate an Investigation roll explicitly, or the GM may rule that a player "triggers" the roll automatically — simply by exploring or asking questions about the world.
+
+_(Author's note: The traditional 3 positions of Forged in the Dark (Controlled, Risky, and Desperate) are ***not** a formal part of these rules. They appear here only as naming conventions to help orient readers. The term "Controlled" has no mechanical weight beyond implying that circumstances are relatively safe, while "Risky" implies an element of danger or running out of time.)_
 
 ### Controlled, aka Just a Routine Search
 
-**When you Investigate your surroundings in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an optional **1 extra die** based on your character's background or any favorable context. This roll may be made in secret, but the default is out in the open. No matter what, you **always** learn something new:
+**When you Investigate your surroundings, in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an optional **1 extra die** based on your character's background or any favorable context. This roll may be made in secret, but the default is out in the open. No matter what, you **always** learn something new:
 
 * **1-3:** Surface details.
 * **4-5:** Surface details.
 * **6:** **More truth**, with illuminating context.
 
-Surface details include learning **everything** that might be hidden in the general area where your character is investigating. Consider the following scene in a fancy CEO's office, for example:
+Surface details include learning **everything** that might be hidden in the general area where your character is searching. Consider the following scene in a fancy CEO's office, for example:
 
-  * _The GM knows that an envelope is taped to the underside of the CEO's computer desk. A character searching through files inside of the desk should always find that envelope. This player succeeds in finding the important clue even on a roll of 1 and even though the player never specified looking underneath the desk._
+  * _The GM decides beforehand that a **secret envelope** is taped to the underside of the CEO's computer desk. A character looking through files inside of the desk should always find that envelope. This player succeeds **even on a roll of 1**, and even without specifying they meant to look underneath the desk._
   
-  _In the same office, perhaps a different character decided to search the bookshelf on the other side of the room, first. On 1-3, this investigator would not find the envelope and would instead learn some short details about the books they find. On a 4-5, however, the GM would give a hint about checking the desk. On a 6, the GM might throw in a sticky note with the computer password, depending on how quickly they want the investigation to proceed._
+  _Earlier in the same scene, perhaps a different character decided to search the bookshelf first, on the other side of the room. On **1-3**, this player would **not** learn about the secret envelope. Instead, they would learn some short details about the books, as well anything hidden in, or behind, the bookshelf._
+  
+  _On a **4-5**, however, this second investigator might get a hint about checking the desk. And on a **6**, the GM might throw in a sticky note with the computer password, as well._
 
-After this initial roll, let the GM know if you want to push for more information. They may offer more details, without another roll, in exchange for **1 Stress**. By default, spending Stress is the preferred method of obtaining core clues _(the really big "aha" moments that drive the story forward)_ while avoiding additional rolls.
+### Pushing for Extra Clues
 
-Or, if the group can think of an **interesting consequence** for your character spending the extra time, the GM may ask you to make an investigation roll in a **Risky** position. Otherwise, the spotlight should go to another player who may search for similar information if they describe a new alternate approach.
+If you investigate for a moment in character, but suspect you're still missing something, let the GM know if you want to **push yourself for more information**. They may offer more details, without another roll, in exchange for **1 Stress**. By default, spending Stress is the preferred method of obtaining core clues _(the really big "aha" moments that drive the story forward)_ while avoiding additional rolls.
+
+Or — if they can think of an **interesting consequence** for your character spending some extra time — the GM may ask you to make an investigation roll with a **Risky** position _(see below)_. Otherwise, the spotlight should go to another player who may search for similar information if they describe a new alternate approach.
 
 _(Author's note: When I run games like this, I usually make this roll in the open. In the past, I've called it a "passive knowledge check," but the name isn't important. Sometimes it feels easier to ask a player to roll, and sometimes I do it myself. Sometimes I declare a small modifier out loud, but usually I just 'guestimate' the degree of success silently in the moment._
 
@@ -191,7 +197,7 @@ _Due to the nature of a mystery-style adventures, however, I do respect the use 
 
 ### Risky, aka Investigating Under Pressure
 
-When there are stakes involved, you may invoke your Mythos Theme or Logos Theme _(but not both)_ and spend Stress to push yourself as with any other Risky action.
+When there are stakes involved while investigating, you may invoke your Mythos Theme or Logos Theme _(but not both)_, as normal. And you may spend Stress to push yourself as with any other Risky action.
 
 **When you Investigate your surroundings in a Risky position**, including risks or dangers that might surprise your character, roll your dice pool as normal. **Insight** is the default Attribute for investigation _(although the GM may allow exceptions based on how you describe your approach)_. No matter what, you **always** learn something new:
 
@@ -199,8 +205,6 @@ When there are stakes involved, you may invoke your Mythos Theme or Logos Theme 
 * **4-5:** Surface details. **No** consequences, **and** you get a hint about where to look next.
 * **6:** **More truth**, with illuminating context.
 * **Crit:** Pierce the Mist. You succeed as above, but also get an extra glimpse of the past or a possible future. The GM can describe this extra knowledge as a psychedelic vision from beyond, or whatever seems fun and flavorful in the moment.
-
-_(Author's note: The traditional 3 positions of Forged in the Dark (Controlled, Risky, and Desperate) are ***not** a formal part of these rules. They appear here only as naming conventions to help orient readers, so the terms have no mechanical weight beyond that.)_
 
 ## Interviewing Witnesses and Suspects
 
