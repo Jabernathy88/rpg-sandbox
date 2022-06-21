@@ -177,9 +177,7 @@ _(Author's note: The traditional Forged in the Dark mechanics of "position and e
 * **4-5:** Surface details.
 * **6:** **More truth**, with illuminating context.
 
-Surface details include learning **everything** that might be hidden in the general area where your character is searching. 
-
-* Consider the following scene in a fancy CEO's office, for example:
+Surface details include learning **everything** that might be hidden in the general area where your character is searching. For example, consider the following scene in a fancy CEO's office:
 
  > The GM decides beforehand that a **secret envelope** is taped to the underside of the CEO's computer desk. A character looking through files inside of the desk should always find that envelope. This player succeeds **even on a roll of 1**, and even without specifying they meant to look underneath the desk.
 
