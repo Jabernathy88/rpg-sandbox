@@ -174,7 +174,7 @@ You may initiate an Investigation roll explicitly, or the GM may rule that a pla
 **When you Investigate your surroundings, in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may add an optional **1 bonus die** based on your character's background or any favorable context. This roll may be made in secret, but the default is out in the open. No matter what, you **always** learn something new:
 
 * **1-3:** Surface details.
-* **4-5:** Surface details.
+* **4-5:** Surface details, **and** you get a hint about where to look next.
 * **6:** **More truth**, with illuminating context.
 
 Surface details include learning **everything** that might be hidden in the general area where your character is searching. For example, consider the following scene in a fancy CEO's office:
