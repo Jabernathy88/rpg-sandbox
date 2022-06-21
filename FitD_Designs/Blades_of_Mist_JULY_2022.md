@@ -167,7 +167,7 @@ If your character takes a **2-3 days off** to relax without working a case, you 
 
 You may initiate an Investigation roll explicitly, or the GM may rule that a player "triggers" the roll automatically — simply by exploring or asking questions about the world.
 
-_(Author's note: The traditional Forged in the Dark mechanics of "position and effect" are not a formal part of these rules. The terms appear here only as naming conventions to help orient reader. That is, I'm using the label "Controlled" for situations that are relatively safe for the PCs, while "Risky" simply implies an element of danger or running out of time.)_
+_(Author's note: The traditional Forged in the Dark mechanics of "position and effect" are not a formal part of these rules. Some familiar terms are used only as naming conventions to help orient readers. For example, I'm using the label "Controlled" for situations that are relatively safe for the PCs, while "Risky" implies an element of danger or running out of time.)_
 
 ### Controlled, aka Just a Routine Search
 
