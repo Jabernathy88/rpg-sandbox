@@ -171,7 +171,7 @@ _(Author's note: The traditional Forged in the Dark mechanics of "position and e
 
 ### Controlled, aka Just a Routine Search
 
-**When you Investigate your surroundings, in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may include an optional **1 extra die** based on your character's background or any favorable context. This roll may be made in secret, but the default is out in the open. No matter what, you **always** learn something new:
+**When you Investigate your surroundings, in a Controlled position,** the GM makes a **1d6** Fortune Roll. They may add an optional **1 bonus die** based on your character's background or any favorable context. This roll may be made in secret, but the default is out in the open. No matter what, you **always** learn something new:
 
 * **1-3:** Surface details.
 * **4-5:** Surface details.
@@ -185,15 +185,15 @@ Surface details include learning **everything** that might be hidden in the gene
 
  > On a **4-5**, however, this second investigator might get a hint about checking the desk. And on a **6**, the GM might throw in a sticky note with the computer password, as well.
 
+_(Author's note: When I run games like this, I usually make this roll in the open. In the past, I've called it a "passive knowledge check," but the name isn't important. Sometimes it feels easier to ask a player to roll, and sometimes I do it myself. Sometimes I declare a small modifier out loud, but usually I just 'guestimate' the degree of success silently in the moment._
+
+_Due to the nature of a mystery-style adventures, however, I do respect the use of secret rolls. I have used them myself from time to time. I usually don't care for bluffing with dice — that is, making a secret roll mainly to increase tension — but I think it's fine as long as you keep things moving swiftly and smoothly. One of my design goals for including a Controlled variant, here, is to accomodate the occasional bluff for groups who enjoy that style.)_
+
 ### Pushing for Extra Clues
 
 If you investigate for a moment in character, but suspect you're still missing something, let the GM know if you want to **push yourself for more information**. They may offer more details, without another roll, in exchange for **1 Stress**. By default, spending Stress is the preferred method of obtaining core clues _(the really big "aha" moments that drive the story forward)_ while avoiding additional rolls.
 
-Or — if they can think of an **interesting consequence** for your character spending some extra time — the GM may ask you to make an investigation roll with a **Risky** position _(see below)_. Otherwise, the spotlight should go to another player who may search for similar information if they describe a new alternate approach.
-
-_(Author's note: When I run games like this, I usually make this roll in the open. In the past, I've called it a "passive knowledge check," but the name isn't important. Sometimes it feels easier to ask a player to roll, and sometimes I do it myself. Sometimes I declare a small modifier out loud, but usually I just 'guestimate' the degree of success silently in the moment._
-
-_Due to the nature of a mystery-style adventures, however, I do respect the use of secret rolls. I have used them myself from time to time. I usually don't care for bluffing with dice — that is, making a secret roll mainly to increase tension — but I think it's fine as long as you keep things moving swiftly and smoothly. One of my design goals for including a Controlled variant, here, is to accomodate the occasional bluff for groups who enjoy that style.)_
+Or — if they can think of an **interesting consequence** for your character spending some extra time — the GM may ask you to make an investigation roll with a **Risky** position, as described below. Otherwise, the spotlight should go to another player who may search for similar information if they describe a new alternate approach.
 
 ### Risky, aka Investigating Under Pressure
 
@@ -216,9 +216,7 @@ There is no mechanical distinction between a witness and suspect. In the words o
 
 * **1-3:** Rumors and opinions, mixed with lies.
 * **4-5:** Rumors and opinions, **and** you learn if the NPC is concealing something important.
-* **6:** Truth, with illuminating context. 
-
-If the result is a strong success, the GM should decide if the NPC is aware that they've "given away" a clue. And, if so, do they care? If the answer is yes, then the GM should dial up the pressure immediately. 
+* **6:** **More truth**, with illuminating context. The GM should decide if the NPC is aware that they've "given away" a clue. And, if so, do they care? If the answer is yes, then the GM should dial up the pressure immediately. 
 
 ### Risky, aka Difficult Conversations
 
@@ -227,13 +225,11 @@ As with other Risky actions, when there are stakes involved, you may invoke your
 **When you Investigate by interviewing an NPC in a Risky position**, including risks or dangers that might surprise your character, roll your dice pool as normal. **Resolve** is the default Attribute for investigating through social interaction. No matter what, you **always** learn something new:
 
 * **1-3:** Rumors, opinions, and lies, with **consequences**.
-* **4-5:** Rumors, opinions, and lies. No consequences **And** you learn if the NPC is still concealing something important.
-* **6:** Truth, with illuminating context. 
+* **4-5:** Rumors and opinions. **No** consequences, **and** you learn if the NPC is still concealing something important.
+* **6:** Truth, with illuminating context.
 * **Crit:** Pierce the Mist. You succeed as above, but also get an extra glimpse of the past or a possible future. The GM can describe this moment as a cinematic montage. Or perhaps the NPC has a dormant Mythos of their own that suddenly takes over and compels them to tell the truth.
 
-_(Author's note: In most of the games I run, I usually do **not** allow enhanced interrogation at my table. I would encourage GMs and players to talk through these scenes without resorting to torture._
-
-_Either way, pursuasion isn't quite the same activity as interviewing purely to gather information. The rules above represent the gleaning of clues through clever questioning, body language, or, perhaps, verbal trickery._
+_(Author's note: In most of the games I run, I usually do **not** allow enhanced interrogation at my table. I would encourage GMs and players to talk through these scenes without resorting to torture. Either way, pursuasion isn't quite the same activity as interviewing purely to gather information. The rules above represent the gleaning of clues through clever questioning, body language, or, perhaps, verbal trickery._
 
 _Convincing someone to do something they won't like — such as betraying their boss or a loved one — is better handled as a standard Risky roll. You might not be able to pursuade them without some kind of leverage, perhaps by offering them something they want in exchange. By contrast, finding out what an NPC really wants **would** be an excellent use of these rules.)_
 
