@@ -51,7 +51,7 @@ Scores start at 0 and max at 3. Reroll any extras.
 
 11  Reroll      Reroll      -             Choose 1      Choose 1 from Blades or S&V or Vaesen                         
 
-12  3d6+STR     d10+Level   -             Roll 1d12    Reroll Spells                                                 
+12  3d6+STR     d10+Level   -             Roll 1d12     Reroll Spells                                                 
 
 
 Damage:
