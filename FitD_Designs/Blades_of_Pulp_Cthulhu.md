@@ -2,7 +2,7 @@
 
 ## Creation
 
-PCs start with
+PCs start with:
 
 0 / 6 Max Stress
 
@@ -16,45 +16,51 @@ ATTRIBUTES                    -- Roll 3d4 to distribute.  1: STR, 2: DEX , 3: WI
 MYTHOS INSIGHT (aka sanity)   -- Roll 1d6. 1-3: 0, 4-5: 1, 6: 2
 0
 
-Luck
-1d4
+--LUCK--
+1d4. Costs and effects:
+3 to nullify and escape all harm for 1 turn.
+1 to add +1d to any dice pool.
+0, 1, or 2 to start a flashback, depending on difficulty.
+1 to add +1 damage to an succesful attack.
+1 to replenish 2 HP, as healing or to pay for spell-casting costs.
+1 to reroll one dice for a STR check to "save vs. death." (See rules for HP of -1 or lower.)
+1 to reroll any single 1d6 roll, but you must keep the newest result.
 
 Roll 3d4.
 
-Roll d100 Occupations
+Roll d100 Occupations.
 
 Scores start at 0 and max at 3. Reroll any extras.
 
--   HD          Luck        ATTRIBUTES    SKILLS        TALENTS                                                       
+| LVL   | HD        | LUCK          | ATTRIBUTES    | SKILLS          | TALENTS         |
+|-------|-----------|---------------|---------------|-----------------|-----------------|
+| 0     | 1d6+STR   | 1d4+Level     | Roll 3d6      | Roll 3d12       | -               |
+| 1     | 2d6+STR   | Reroll        | Choose 1      | Choose 1        | Choose 1 from Blades S&V or Vaesen or 1d4+Mythos Spells   |
 
-0   1d6+STR     1d4+Level   Roll 3d4      Roll 3d12     -                                                             
+2   Reroll      Reroll      -             Roll 1d10     Reroll Spells
 
-1   2d6+STR     Reroll      Choose 1      Choose 1      Choose 1 from Blades S&V or Vaesen or 1d4+Mythos Spells   
+3   Reroll      Reroll      -             Choose 1      Choose 1 from Blades or S&V or Vaesen
 
-2   Reroll      Reroll      -             Roll 1d12     Reroll Spells
+4   Reroll      Reroll      -             Roll 1d10     Reroll Spells
 
-3   Reroll      Reroll      -             Choose 1      Choose 1 from Blades or S&V or Vaesen                         
+5   Reroll      Reroll      Choose 1      Choose 1      Choose 1 from Blades or S&V or Vaesen or 1d6+Mythos Spells
 
-4   Reroll      d6+Level    -             Roll 1d12     Reroll Spells       
+6   3d6+STR     1d6+Level   -             Roll 1d10     Reroll Spells
 
-5   Reroll      Reroll      Choose 1      Choose 1      Choose 1 from Blades or S&V or Vaesen or 1d6+Mythos Spells    
+7   Reroll      Reroll      -             Choose 1      Choose 1 from Blades or S&V or Vaesen
 
-6   3d6+STR     Reroll      -             Roll 1d12     Reroll Spells                                                 
+8   Reroll      Reroll      -             Roll 1d10     Reroll Spells
 
-7   Reroll      Reroll      -             Choose 1      Choose 1 from Blades or S&V or Vaesen                         
+9   Reroll      Reroll      Choose 1      Choose 1      Choose 1 from Blades or S&V or Vaesen or 1d8+Mythos Spells
 
-8   Reroll      d8+Level    -             Roll 1d12     Reroll Spells                                                 
+10  Reroll      Reroll      -             Roll 1d10     Reroll Spells
 
-9   Reroll      Reroll      Choose 1      Choose 1      Choose 1 from Blades or S&V or Vaesen or 1d8+Mythos Spells    
+11  Reroll      Reroll      -             Choose 1      Choose 1 from Blades or S&V or Vaesen
 
-10  Reroll      Reroll      -             Roll 1d12     Reroll Spells                                                 
-
-11  Reroll      Reroll      -             Choose 1      Choose 1 from Blades or S&V or Vaesen                         
-
-12  3d6+STR     d10+Level   -             Roll 1d12     Reroll Spells                                                 
+12  3d6+STR     d8+Level    -             Roll 1d10     Reroll Spells
 
 
-Damage:
+Damage/Effect:
 1-3:    0 and you take harm = enemy's ATTK - highest rolled (their attack will usually 6 or higher)
 4-5:    2 and you take harm = enemy's ATTK - highest rolled
 6:      3 and you take no harm (aka max damage)
@@ -67,18 +73,39 @@ ARMOR:
 0-3
 
 WEAPONS:
-+1 damage, up to
++1 damage, up to +3
 
-SKILLS
+Casting spells usually costs 2, 4, or 6 HP. You can also substitute 1 luck for 2 HP, or 1 Mythos
 
+## SKILLS
+
+### Physical
+
+| -   | -                 | - | - | - | - |
+|-----|-------------------|---|---|---|---|
+| 1.  | Close Combat      | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 2.  | Ranged Combat     | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 3.  | Pilot             | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 4.  | Prowl             | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 5.  | First Aid         | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+
+* Other: ______.
+* Other: ______.
+
+### Mental
+
+| -   | -                 | - | - | - | - |
+|-----|-------------------|---|---|---|---|
+| 6.  | Command           | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 7.  | Consort           | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 8.  | Study             | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 9.  | Survival          | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 10. | Tinker            | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+
+* Other: ______.
+* Other: ______.
 
 ENEMY TRAITS
-
-
-
-
-
-
 
 4 Attributes points
 
@@ -110,7 +137,25 @@ Vices: Automatically refresh 1 stress for free. If character chooses, roll lowes
 6: Complete refresh.
 Crit: Group gains new ally or earns 1 extra Cred.
 
-# Investigating
+## Death
+
+### Zero HP
+
+When you are at **exactly 0 HP**, roll a STR check. You may not use luck on this particular roll. The lower the better: 
+
+* If you roll equal to or under your STR Attribute with no other bonuses, you succeed and are in great pain, but still standing. **-1d** to all rolls. 
+* If the result is higher than your STR, you fail and pass out unconscious. If you don't receive medical attention within 1 hour, you die.
+* Rolling a 1 always succeeds, even if if your STR is 0.
+* Roilling a 6 always fails. (See special case below.)
+
+### Negative HP
+
+When your HP is negative (that is, **-1 or lower**), roll a STR check the same as with 0 except:
+
+* Rolling a 6 means you die instantly. You may not usee luck on this particular roll.
+
+
+## Investigating
 
 ...
 

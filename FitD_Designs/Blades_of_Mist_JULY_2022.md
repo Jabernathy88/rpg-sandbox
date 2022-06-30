@@ -22,7 +22,7 @@ _(Marking the 1st condition reduces your dice pool by 1. The 2nd condition turns
 
 __Armor:__
 
-0 / 2
+1 / 2
 
 ### Attributes
 
@@ -66,7 +66,6 @@ _(Examples: "Auto Maintenance," "Locksmithing," "Weather Control," "Searing Ligh
 
 5. _____________________: M / L?
 
-6. _____________________: M / L?
 
 _(For each above, label "M" for Mythos or "L" for Logos. At character creation, you must have at least **1 tag** representing both sides. Power Tags have no mechanical benefit other than describing the themes of your Mythos and Logos, and tracking the Balance between them. Powerful artifacts known as Relics are treated the same as Power Tags.)_
 
@@ -74,8 +73,8 @@ _(For each above, label "M" for Mythos or "L" for Logos. At character creation, 
 
 _(Balance ratings always add up to 6, matching the choices for Power Tags above.)_
 
-* Mythos: 3
-* Logos: 3
+* Mythos: 3 <-- changing it to 0 through 5, instead?
+~~* Logos: 3~~
 
 _(On a regular character sheet, Balance will have a "slider" appearance.)_
 
