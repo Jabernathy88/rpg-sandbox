@@ -87,7 +87,8 @@ Casting spells usually costs 2, 4, or 6 HP. You can also substitute 1 luck for 2
 | 2.  | Ranged Combat     | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
 | 3.  | Pilot             | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
 | 4.  | Prowl             | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
-| 5.  | First Aid         | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 5.  | Athletics         | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 6.  | First Aid         | 
 
 * Other: ______.
 * Other: ______.
@@ -96,14 +97,17 @@ Casting spells usually costs 2, 4, or 6 HP. You can also substitute 1 luck for 2
 
 | -   | -                 | - | - | - | - |
 |-----|-------------------|---|---|---|---|
-| 6.  | Command           | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
-| 7.  | Consort           | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
-| 8.  | Study             | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
-| 9.  | Survival          | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
-| 10. | Tinker            | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 7.  | Command           | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 8.  | Consort           | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 9.  | Study             | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 10. | Survival          | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 11. | Tinker            | ❑: **+1d**  | ⚬: 1.1  | ❑: **+2d**  | ⚬: 2.1   |
+| 12. | Occult            | 
 
 * Other: ______.
 * Other: ______.
+
+Weird science is a Talent?
 
 ENEMY TRAITS
 
