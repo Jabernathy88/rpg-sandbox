@@ -10,6 +10,25 @@
 
 3. Fire Emblem PbP Game
 
+ * Main PC, 1-2 secondary PCs
+ 
+ * Main: 
+    - Prince or Princess (look at Rebel Crown, RP hooks), 
+    - Tactician, like in Awakening
+    - Minstrel (like the lady judge character)
+    - Wisecracking Archer
+    - Lucina from the Future
+    - younger Prince knight, like from Triangle Strategy?
+    - Traitor character?
+
+ * Secondary:
+    - Slacker Warrior
+    - Thirsty Sorceror
+    - Pious Pegasus Knight
+    - Guardian Shinobi
+    - Knight, loves to eat
+    - Edgy Myrmedon
+
 4. Mork Borg Greek Myth adventure
 
 * Ideas: titan cyclopse in darkness, cyclops union strike, perseus banquet, birds of stymphalia
