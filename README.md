@@ -4,7 +4,7 @@
 
 1. Cthulhu Dark Italia
 
-* link: 
+* link: https://itch.io/jam/cthulhudarkitaliajam2022
 
 2. Courtly Story Game
 
